@@ -1,0 +1,110 @@
+[
+	{
+		"id" : 1,
+		"type_name_en" : "Bug",
+		"type_name_es" : "Bicho",
+		"color" : "#A6B91A"
+	},
+	{
+		"id" : 2,
+		"type_name_en" : "Dark",
+		"type_name_es" : "Siniestro",
+		"color" : "#705746"
+	},
+	{
+		"id" : 3,
+		"type_name_en" : "Dragon",
+		"type_name_es" : "Dragón",
+		"color" : "#6F35FC"
+	},
+	{
+		"id" : 4,
+		"type_name_en" : "Electric",
+		"type_name_es" : "Eléctrico",
+		"color" : "#F7D02C"
+	},
+	{
+		"id" : 5,
+		"type_name_en" : "Fairy",
+		"type_name_es" : "Hada",
+		"color" : "#D685AD"
+	},
+	{
+		"id" : 6,
+		"type_name_en" : "Fighting",
+		"type_name_es" : "Lucha",
+		"color" : "#C22E28"
+	},
+	{
+		"id" : 7,
+		"type_name_en" : "Fire",
+		"type_name_es" : "Fuego",
+		"color" : "#EE8130"
+	},
+	{
+		"id" : 8,
+		"type_name_en" : "Flying",
+		"type_name_es" : "Volador",
+		"color" : "#A98FF3"
+	},
+	{
+		"id" : 9,
+		"type_name_en" : "Ghost",
+		"type_name_es" : "Fantasma",
+		"color" : "#735797"
+	},
+	{
+		"id" : 10,
+		"type_name_en" : "Grass",
+		"type_name_es" : "Planta",
+		"color" : "#7AC74C"
+	},
+	{
+		"id" : 11,
+		"type_name_en" : "Ground",
+		"type_name_es" : "Tierra",
+		"color" : "#E2BF65"
+	},
+	{
+		"id" : 12,
+		"type_name_en" : "Ice",
+		"type_name_es" : "Hielo",
+		"color" : "#96D9D6"
+	},
+	{
+		"id" : 13,
+		"type_name_en" : "Normal",
+		"type_name_es" : "Normal",
+		"color" : "#A8A77A"
+	},
+	{
+		"id" : 14,
+		"type_name_en" : "Poison",
+		"type_name_es" : "Veneno",
+		"color" : "#A33EA1"
+	},
+	{
+		"id" : 15,
+		"type_name_en" : "Psychic",
+		"type_name_es" : "Psíquico",
+		"color" : "#F95587"
+	},
+	{
+		"id" : 16,
+		"type_name_en" : "Rock",
+		"type_name_es" : "Roca",
+		"color" : "#B6A136"
+	},
+	{
+		"id" : 17,
+		"type_name_en" : "Steel",
+		"type_name_es" : "Acero",
+		"color" : "#B7B7CE"
+	},
+	{
+		"id" : 18,
+		"type_name_en" : "Water",
+		"type_name_es" : "Agua",
+		"color" : "#6390F0"
+	}
+]

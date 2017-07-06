@@ -1,0 +1,1822 @@
+[
+	{
+		"id" : 1,
+		"evolvesFrom" : null,
+		"evolvesInto" : 2,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 2,
+		"evolvesFrom" : 1,
+		"evolvesInto" : 3,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 3,
+		"evolvesFrom" : 2,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 4,
+		"evolvesFrom" : null,
+		"evolvesInto" : 5,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 5,
+		"evolvesFrom" : 4,
+		"evolvesInto" : 6,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 6,
+		"evolvesFrom" : 5,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 7,
+		"evolvesFrom" : null,
+		"evolvesInto" : 8,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 8,
+		"evolvesFrom" : 7,
+		"evolvesInto" : 9,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 9,
+		"evolvesFrom" : 8,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 10,
+		"evolvesFrom" : null,
+		"evolvesInto" : 11,
+		"candyRequired" : 12,
+		"condition" : null
+	},
+	{
+		"id" : 11,
+		"evolvesFrom" : 10,
+		"evolvesInto" : 12,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 12,
+		"evolvesFrom" : 11,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 13,
+		"evolvesFrom" : null,
+		"evolvesInto" : 14,
+		"candyRequired" : 12,
+		"condition" : null
+	},
+	{
+		"id" : 14,
+		"evolvesFrom" : 13,
+		"evolvesInto" : 15,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 15,
+		"evolvesFrom" : 14,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 16,
+		"evolvesFrom" : null,
+		"evolvesInto" : 17,
+		"candyRequired" : 12,
+		"condition" : null
+	},
+	{
+		"id" : 17,
+		"evolvesFrom" : 16,
+		"evolvesInto" : 18,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 18,
+		"evolvesFrom" : 17,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 19,
+		"evolvesFrom" : null,
+		"evolvesInto" : 20,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 20,
+		"evolvesFrom" : 19,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 21,
+		"evolvesFrom" : null,
+		"evolvesInto" : 22,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 22,
+		"evolvesFrom" : 21,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 23,
+		"evolvesFrom" : null,
+		"evolvesInto" : 24,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 24,
+		"evolvesFrom" : 23,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 25,
+		"evolvesFrom" : 172,
+		"evolvesInto" : 26,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 26,
+		"evolvesFrom" : 25,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 27,
+		"evolvesFrom" : null,
+		"evolvesInto" : 28,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 28,
+		"evolvesFrom" : 27,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 29,
+		"evolvesFrom" : null,
+		"evolvesInto" : 30,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 30,
+		"evolvesFrom" : 29,
+		"evolvesInto" : 31,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 31,
+		"evolvesFrom" : 30,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 32,
+		"evolvesFrom" : null,
+		"evolvesInto" : 33,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 33,
+		"evolvesFrom" : 32,
+		"evolvesInto" : 34,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 34,
+		"evolvesFrom" : 33,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 35,
+		"evolvesFrom" : 173,
+		"evolvesInto" : 36,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 36,
+		"evolvesFrom" : 35,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 37,
+		"evolvesFrom" : null,
+		"evolvesInto" : 38,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 38,
+		"evolvesFrom" : 37,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 39,
+		"evolvesFrom" : 174,
+		"evolvesInto" : 40,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 40,
+		"evolvesFrom" : 39,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 41,
+		"evolvesFrom" : null,
+		"evolvesInto" : 42,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 42,
+		"evolvesFrom" : 41,
+		"evolvesInto" : 169,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 43,
+		"evolvesFrom" : null,
+		"evolvesInto" : 44,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 44,
+		"evolvesFrom" : 43,
+		"evolvesInto" : 45,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 44,
+		"evolvesFrom" : 43,
+		"evolvesInto" : 182,
+		"candyRequired" : 100,
+		"condition" : "Objeto = Piedra Solar"
+	},
+	{
+		"id" : 45,
+		"evolvesFrom" : 44,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 46,
+		"evolvesFrom" : null,
+		"evolvesInto" : 47,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 47,
+		"evolvesFrom" : 46,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 48,
+		"evolvesFrom" : null,
+		"evolvesInto" : 49,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 49,
+		"evolvesFrom" : 48,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 50,
+		"evolvesFrom" : null,
+		"evolvesInto" : 51,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 51,
+		"evolvesFrom" : 50,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 52,
+		"evolvesFrom" : null,
+		"evolvesInto" : 53,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 53,
+		"evolvesFrom" : 52,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 54,
+		"evolvesFrom" : null,
+		"evolvesInto" : 55,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 55,
+		"evolvesFrom" : 54,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 56,
+		"evolvesFrom" : null,
+		"evolvesInto" : 57,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 57,
+		"evolvesFrom" : 56,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 58,
+		"evolvesFrom" : null,
+		"evolvesInto" : 59,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 59,
+		"evolvesFrom" : 58,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 60,
+		"evolvesFrom" : null,
+		"evolvesInto" : 61,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 61,
+		"evolvesFrom" : 60,
+		"evolvesInto" : 62,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 61,
+		"evolvesFrom" : 60,
+		"evolvesInto" : 186,
+		"candyRequired" : 100,
+		"condition" : "Objeto = Roca del rey"
+	},
+	{
+		"id" : 62,
+		"evolvesFrom" : 61,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 63,
+		"evolvesFrom" : null,
+		"evolvesInto" : 64,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 64,
+		"evolvesFrom" : 63,
+		"evolvesInto" : 65,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 65,
+		"evolvesFrom" : 64,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 66,
+		"evolvesFrom" : null,
+		"evolvesInto" : 67,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 67,
+		"evolvesFrom" : 66,
+		"evolvesInto" : 68,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 68,
+		"evolvesFrom" : 67,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 69,
+		"evolvesFrom" : null,
+		"evolvesInto" : 70,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 70,
+		"evolvesFrom" : 69,
+		"evolvesInto" : 71,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 71,
+		"evolvesFrom" : 70,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 72,
+		"evolvesFrom" : null,
+		"evolvesInto" : 73,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 73,
+		"evolvesFrom" : 72,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 74,
+		"evolvesFrom" : null,
+		"evolvesInto" : 75,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 75,
+		"evolvesFrom" : 74,
+		"evolvesInto" : 76,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 76,
+		"evolvesFrom" : 75,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 77,
+		"evolvesFrom" : null,
+		"evolvesInto" : 78,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 78,
+		"evolvesFrom" : 77,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 79,
+		"evolvesFrom" : null,
+		"evolvesInto" : 80,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 79,
+		"evolvesFrom" : null,
+		"evolvesInto" : 199,
+		"candyRequired" : 50,
+		"condition" : "Objeto = Roca del rey"
+	},
+	{
+		"id" : 80,
+		"evolvesFrom" : 79,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 81,
+		"evolvesFrom" : null,
+		"evolvesInto" : 82,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 82,
+		"evolvesFrom" : 81,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 83,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 84,
+		"evolvesFrom" : null,
+		"evolvesInto" : 85,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 85,
+		"evolvesFrom" : 84,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 86,
+		"evolvesFrom" : null,
+		"evolvesInto" : 87,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 87,
+		"evolvesFrom" : 86,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 88,
+		"evolvesFrom" : null,
+		"evolvesInto" : 89,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 89,
+		"evolvesFrom" : 88,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 90,
+		"evolvesFrom" : null,
+		"evolvesInto" : 91,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 91,
+		"evolvesFrom" : 90,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 92,
+		"evolvesFrom" : null,
+		"evolvesInto" : 93,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 93,
+		"evolvesFrom" : 92,
+		"evolvesInto" : 94,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 94,
+		"evolvesFrom" : 93,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 95,
+		"evolvesFrom" : null,
+		"evolvesInto" : 208,
+		"candyRequired" : 50,
+		"condition" : "Objeto = Revestimiento metálico"
+	},
+	{
+		"id" : 96,
+		"evolvesFrom" : null,
+		"evolvesInto" : 97,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 97,
+		"evolvesFrom" : 96,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 98,
+		"evolvesFrom" : null,
+		"evolvesInto" : 99,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 99,
+		"evolvesFrom" : 98,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 100,
+		"evolvesFrom" : null,
+		"evolvesInto" : 101,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 101,
+		"evolvesFrom" : 100,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 102,
+		"evolvesFrom" : null,
+		"evolvesInto" : 103,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 103,
+		"evolvesFrom" : 102,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 104,
+		"evolvesFrom" : null,
+		"evolvesInto" : 105,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 105,
+		"evolvesFrom" : 104,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 106,
+		"evolvesFrom" : 236,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 107,
+		"evolvesFrom" : 236,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 108,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 109,
+		"evolvesFrom" : null,
+		"evolvesInto" : 110,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 110,
+		"evolvesFrom" : 109,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 111,
+		"evolvesFrom" : null,
+		"evolvesInto" : 112,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 112,
+		"evolvesFrom" : 111,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 113,
+		"evolvesFrom" : null,
+		"evolvesInto" : 242,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 114,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 115,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 116,
+		"evolvesFrom" : null,
+		"evolvesInto" : 117,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 117,
+		"evolvesFrom" : 116,
+		"evolvesInto" : 230,
+		"candyRequired" : 100,
+		"condition" : "Objeto = Escama Dragón"
+	},
+	{
+		"id" : 118,
+		"evolvesFrom" : null,
+		"evolvesInto" : 119,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 119,
+		"evolvesFrom" : 118,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 120,
+		"evolvesFrom" : null,
+		"evolvesInto" : 121,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 121,
+		"evolvesFrom" : 120,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 122,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 123,
+		"evolvesFrom" : null,
+		"evolvesInto" : 212,
+		"candyRequired" : 50,
+		"condition" : "Objeto = Revestimiento metálico"
+	},
+	{
+		"id" : 124,
+		"evolvesFrom" : 238,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 125,
+		"evolvesFrom" : 239,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 126,
+		"evolvesFrom" : 240,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 127,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 128,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 129,
+		"evolvesFrom" : null,
+		"evolvesInto" : 130,
+		"candyRequired" : 400,
+		"condition" : null
+	},
+	{
+		"id" : 130,
+		"evolvesFrom" : 129,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 131,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 132,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 133,
+		"evolvesFrom" : null,
+		"evolvesInto" : 134,
+		"candyRequired" : 25,
+		"condition" : "Random / Nick = Rainer"
+	},
+	{
+		"id" : 133,
+		"evolvesFrom" : null,
+		"evolvesInto" : 135,
+		"candyRequired" : 25,
+		"condition" : "Random / Sparky"
+	},
+	{
+		"id" : 133,
+		"evolvesFrom" : null,
+		"evolvesInto" : 136,
+		"candyRequired" : 25,
+		"condition" : "Random / Pyro"
+	},
+	{
+		"id" : 133,
+		"evolvesFrom" : null,
+		"evolvesInto" : 196,
+		"candyRequired" : 25,
+		"condition" : "Random / Nick = Sakura / Buddy +10km +Day"
+	},
+	{
+		"id" : 133,
+		"evolvesFrom" : null,
+		"evolvesInto" : 197,
+		"candyRequired" : 25,
+		"condition" : "Random / Nick = Tamao / Buddy +10km +Night"
+	},
+	{
+		"id" : 134,
+		"evolvesFrom" : 133,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 135,
+		"evolvesFrom" : 133,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 136,
+		"evolvesFrom" : 133,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 137,
+		"evolvesFrom" : null,
+		"evolvesInto" : 233,
+		"candyRequired" : 50,
+		"condition" : "Objeto = Mejora"
+	},
+	{
+		"id" : 138,
+		"evolvesFrom" : null,
+		"evolvesInto" : 139,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 139,
+		"evolvesFrom" : 138,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 140,
+		"evolvesFrom" : null,
+		"evolvesInto" : 141,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 141,
+		"evolvesFrom" : 140,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 142,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 143,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 144,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 145,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 146,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 147,
+		"evolvesFrom" : null,
+		"evolvesInto" : 148,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 148,
+		"evolvesFrom" : 147,
+		"evolvesInto" : 149,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 149,
+		"evolvesFrom" : 148,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 150,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 151,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 152,
+		"evolvesFrom" : null,
+		"evolvesInto" : 153,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 153,
+		"evolvesFrom" : 152,
+		"evolvesInto" : 154,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 154,
+		"evolvesFrom" : 153,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 155,
+		"evolvesFrom" : null,
+		"evolvesInto" : 156,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 156,
+		"evolvesFrom" : 155,
+		"evolvesInto" : 157,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 157,
+		"evolvesFrom" : 156,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 158,
+		"evolvesFrom" : null,
+		"evolvesInto" : 159,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 159,
+		"evolvesFrom" : 158,
+		"evolvesInto" : 160,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 160,
+		"evolvesFrom" : 159,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 161,
+		"evolvesFrom" : null,
+		"evolvesInto" : 162,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 162,
+		"evolvesFrom" : 161,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 163,
+		"evolvesFrom" : null,
+		"evolvesInto" : 164,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 164,
+		"evolvesFrom" : 163,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 165,
+		"evolvesFrom" : null,
+		"evolvesInto" : 166,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 166,
+		"evolvesFrom" : 165,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 167,
+		"evolvesFrom" : null,
+		"evolvesInto" : 168,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 168,
+		"evolvesFrom" : 167,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 169,
+		"evolvesFrom" : 42,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 170,
+		"evolvesFrom" : null,
+		"evolvesInto" : 171,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 171,
+		"evolvesFrom" : 170,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 172,
+		"evolvesFrom" : null,
+		"evolvesInto" : 25,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 173,
+		"evolvesFrom" : null,
+		"evolvesInto" : 35,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 174,
+		"evolvesFrom" : null,
+		"evolvesInto" : 39,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 175,
+		"evolvesFrom" : null,
+		"evolvesInto" : 176,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 176,
+		"evolvesFrom" : 175,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 177,
+		"evolvesFrom" : null,
+		"evolvesInto" : 178,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 178,
+		"evolvesFrom" : 177,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 179,
+		"evolvesFrom" : null,
+		"evolvesInto" : 180,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 180,
+		"evolvesFrom" : 179,
+		"evolvesInto" : 181,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 181,
+		"evolvesFrom" : 180,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 182,
+		"evolvesFrom" : 44,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 183,
+		"evolvesFrom" : null,
+		"evolvesInto" : 184,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 184,
+		"evolvesFrom" : 183,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 185,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 186,
+		"evolvesFrom" : 61,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 187,
+		"evolvesFrom" : null,
+		"evolvesInto" : 188,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 188,
+		"evolvesFrom" : 187,
+		"evolvesInto" : 189,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 189,
+		"evolvesFrom" : 188,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 190,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 191,
+		"evolvesFrom" : null,
+		"evolvesInto" : 192,
+		"candyRequired" : 50,
+		"condition" : "Objeto = Piedra solar"
+	},
+	{
+		"id" : 192,
+		"evolvesFrom" : 191,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 193,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 194,
+		"evolvesFrom" : null,
+		"evolvesInto" : 195,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 195,
+		"evolvesFrom" : 194,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 196,
+		"evolvesFrom" : 133,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 197,
+		"evolvesFrom" : 133,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 198,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 199,
+		"evolvesFrom" : 79,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 200,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 201,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 202,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 203,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 204,
+		"evolvesFrom" : null,
+		"evolvesInto" : 205,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 205,
+		"evolvesFrom" : 204,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 206,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 207,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 208,
+		"evolvesFrom" : 95,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 209,
+		"evolvesFrom" : null,
+		"evolvesInto" : 210,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 210,
+		"evolvesFrom" : 209,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 211,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 212,
+		"evolvesFrom" : 123,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 213,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 214,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 215,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 216,
+		"evolvesFrom" : null,
+		"evolvesInto" : 217,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 217,
+		"evolvesFrom" : 216,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 218,
+		"evolvesFrom" : null,
+		"evolvesInto" : 219,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 219,
+		"evolvesFrom" : 218,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 220,
+		"evolvesFrom" : null,
+		"evolvesInto" : 221,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 221,
+		"evolvesFrom" : 220,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 222,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 223,
+		"evolvesFrom" : null,
+		"evolvesInto" : 224,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 224,
+		"evolvesFrom" : 223,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 225,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 226,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 227,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 228,
+		"evolvesFrom" : null,
+		"evolvesInto" : 229,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 229,
+		"evolvesFrom" : 228,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 230,
+		"evolvesFrom" : 117,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 231,
+		"evolvesFrom" : null,
+		"evolvesInto" : 232,
+		"candyRequired" : 50,
+		"condition" : null
+	},
+	{
+		"id" : 232,
+		"evolvesFrom" : 231,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 233,
+		"evolvesFrom" : 137,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 234,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 235,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 236,
+		"evolvesFrom" : null,
+		"evolvesInto" : 106,
+		"candyRequired" : 25,
+		"condition" : "Random / Best Stat = Hitmonlee"
+	},
+	{
+		"id" : 236,
+		"evolvesFrom" : null,
+		"evolvesInto" : 107,
+		"candyRequired" : 25,
+		"condition" : "Random / Best Stat = Defense"
+	},
+	{
+		"id" : 236,
+		"evolvesFrom" : null,
+		"evolvesInto" : 237,
+		"candyRequired" : 25,
+		"condition" : "Random / Best Stat = HP"
+	},
+	{
+		"id" : 237,
+		"evolvesFrom" : 236,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 238,
+		"evolvesFrom" : null,
+		"evolvesInto" : 124,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 239,
+		"evolvesFrom" : null,
+		"evolvesInto" : 125,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 240,
+		"evolvesFrom" : null,
+		"evolvesInto" : 126,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 241,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 242,
+		"evolvesFrom" : 113,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 243,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 244,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 245,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 246,
+		"evolvesFrom" : null,
+		"evolvesInto" : 247,
+		"candyRequired" : 25,
+		"condition" : null
+	},
+	{
+		"id" : 247,
+		"evolvesFrom" : 246,
+		"evolvesInto" : 248,
+		"candyRequired" : 100,
+		"condition" : null
+	},
+	{
+		"id" : 248,
+		"evolvesFrom" : 247,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 249,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 250,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	},
+	{
+		"id" : 251,
+		"evolvesFrom" : null,
+		"evolvesInto" : 0,
+		"candyRequired" : null,
+		"condition" : null
+	}
+]
