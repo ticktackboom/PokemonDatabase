@@ -1,0 +1,1332 @@
+[
+	{
+		"Id" : 1,
+		"nombre" : "RHYDON",
+		"internal_id" : 1,
+		"gen" : 1,
+		"pokedex_id" : 112
+	},
+	{
+		"Id" : 2,
+		"nombre" : "KANGASKHAN",
+		"internal_id" : 2,
+		"gen" : 1,
+		"pokedex_id" : 115
+	},
+	{
+		"Id" : 3,
+		"nombre" : "NIDORAN♂",
+		"internal_id" : 3,
+		"gen" : 1,
+		"pokedex_id" : 32
+	},
+	{
+		"Id" : 4,
+		"nombre" : "CLEFAIRY",
+		"internal_id" : 4,
+		"gen" : 1,
+		"pokedex_id" : 35
+	},
+	{
+		"Id" : 5,
+		"nombre" : "SPEAROW",
+		"internal_id" : 5,
+		"gen" : 1,
+		"pokedex_id" : 21
+	},
+	{
+		"Id" : 6,
+		"nombre" : "VOLTORB",
+		"internal_id" : 6,
+		"gen" : 1,
+		"pokedex_id" : 100
+	},
+	{
+		"Id" : 7,
+		"nombre" : "NIDOKING",
+		"internal_id" : 7,
+		"gen" : 1,
+		"pokedex_id" : 34
+	},
+	{
+		"Id" : 8,
+		"nombre" : "SLOWBRO",
+		"internal_id" : 8,
+		"gen" : 1,
+		"pokedex_id" : 80
+	},
+	{
+		"Id" : 9,
+		"nombre" : "IVYSAUR",
+		"internal_id" : 9,
+		"gen" : 1,
+		"pokedex_id" : 2
+	},
+	{
+		"Id" : 10,
+		"nombre" : "EXEGGUTOR",
+		"internal_id" : 10,
+		"gen" : 1,
+		"pokedex_id" : 103
+	},
+	{
+		"Id" : 11,
+		"nombre" : "LICKITUNG",
+		"internal_id" : 11,
+		"gen" : 1,
+		"pokedex_id" : 108
+	},
+	{
+		"Id" : 12,
+		"nombre" : "EXEGGCUTE",
+		"internal_id" : 12,
+		"gen" : 1,
+		"pokedex_id" : 102
+	},
+	{
+		"Id" : 13,
+		"nombre" : "GRIMER",
+		"internal_id" : 13,
+		"gen" : 1,
+		"pokedex_id" : 88
+	},
+	{
+		"Id" : 14,
+		"nombre" : "GENGAR",
+		"internal_id" : 14,
+		"gen" : 1,
+		"pokedex_id" : 94
+	},
+	{
+		"Id" : 15,
+		"nombre" : "NIDORAN♀",
+		"internal_id" : 15,
+		"gen" : 1,
+		"pokedex_id" : 29
+	},
+	{
+		"Id" : 16,
+		"nombre" : "NIDOQUEEN",
+		"internal_id" : 16,
+		"gen" : 1,
+		"pokedex_id" : 31
+	},
+	{
+		"Id" : 17,
+		"nombre" : "CUBONE",
+		"internal_id" : 17,
+		"gen" : 1,
+		"pokedex_id" : 104
+	},
+	{
+		"Id" : 18,
+		"nombre" : "RHYHORN",
+		"internal_id" : 18,
+		"gen" : 1,
+		"pokedex_id" : 111
+	},
+	{
+		"Id" : 19,
+		"nombre" : "LAPRAS",
+		"internal_id" : 19,
+		"gen" : 1,
+		"pokedex_id" : 131
+	},
+	{
+		"Id" : 20,
+		"nombre" : "ARCANINE",
+		"internal_id" : 20,
+		"gen" : 1,
+		"pokedex_id" : 59
+	},
+	{
+		"Id" : 21,
+		"nombre" : "MEW",
+		"internal_id" : 21,
+		"gen" : 1,
+		"pokedex_id" : 151
+	},
+	{
+		"Id" : 22,
+		"nombre" : "GYARADOS",
+		"internal_id" : 22,
+		"gen" : 1,
+		"pokedex_id" : 130
+	},
+	{
+		"Id" : 23,
+		"nombre" : "SHELLDER",
+		"internal_id" : 23,
+		"gen" : 1,
+		"pokedex_id" : 90
+	},
+	{
+		"Id" : 24,
+		"nombre" : "TENTACOOL",
+		"internal_id" : 24,
+		"gen" : 1,
+		"pokedex_id" : 72
+	},
+	{
+		"Id" : 25,
+		"nombre" : "GASTLY",
+		"internal_id" : 25,
+		"gen" : 1,
+		"pokedex_id" : 92
+	},
+	{
+		"Id" : 26,
+		"nombre" : "SCYTHER",
+		"internal_id" : 26,
+		"gen" : 1,
+		"pokedex_id" : 123
+	},
+	{
+		"Id" : 27,
+		"nombre" : "STARYU",
+		"internal_id" : 27,
+		"gen" : 1,
+		"pokedex_id" : 120
+	},
+	{
+		"Id" : 28,
+		"nombre" : "BLASTOISE",
+		"internal_id" : 28,
+		"gen" : 1,
+		"pokedex_id" : 9
+	},
+	{
+		"Id" : 29,
+		"nombre" : "PINSIR",
+		"internal_id" : 29,
+		"gen" : 1,
+		"pokedex_id" : 127
+	},
+	{
+		"Id" : 30,
+		"nombre" : "TANGELA",
+		"internal_id" : 30,
+		"gen" : 1,
+		"pokedex_id" : 114
+	},
+	{
+		"Id" : 31,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 31,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 32,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 32,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 33,
+		"nombre" : "GROWLITHE",
+		"internal_id" : 33,
+		"gen" : 1,
+		"pokedex_id" : 58
+	},
+	{
+		"Id" : 34,
+		"nombre" : "ONIX",
+		"internal_id" : 34,
+		"gen" : 1,
+		"pokedex_id" : 95
+	},
+	{
+		"Id" : 35,
+		"nombre" : "FEAROW",
+		"internal_id" : 35,
+		"gen" : 1,
+		"pokedex_id" : 22
+	},
+	{
+		"Id" : 36,
+		"nombre" : "PIDGEY",
+		"internal_id" : 36,
+		"gen" : 1,
+		"pokedex_id" : 16
+	},
+	{
+		"Id" : 37,
+		"nombre" : "SLOWPOKE",
+		"internal_id" : 37,
+		"gen" : 1,
+		"pokedex_id" : 79
+	},
+	{
+		"Id" : 38,
+		"nombre" : "KADABRA",
+		"internal_id" : 38,
+		"gen" : 1,
+		"pokedex_id" : 64
+	},
+	{
+		"Id" : 39,
+		"nombre" : "GRAVELER",
+		"internal_id" : 39,
+		"gen" : 1,
+		"pokedex_id" : 75
+	},
+	{
+		"Id" : 40,
+		"nombre" : "CHANSEY",
+		"internal_id" : 40,
+		"gen" : 1,
+		"pokedex_id" : 113
+	},
+	{
+		"Id" : 41,
+		"nombre" : "MACHOKE",
+		"internal_id" : 41,
+		"gen" : 1,
+		"pokedex_id" : 67
+	},
+	{
+		"Id" : 42,
+		"nombre" : "MR.MIME",
+		"internal_id" : 42,
+		"gen" : 1,
+		"pokedex_id" : 122
+	},
+	{
+		"Id" : 43,
+		"nombre" : "HITMONLEE",
+		"internal_id" : 43,
+		"gen" : 1,
+		"pokedex_id" : 106
+	},
+	{
+		"Id" : 44,
+		"nombre" : "HITMONCHAN",
+		"internal_id" : 44,
+		"gen" : 1,
+		"pokedex_id" : 107
+	},
+	{
+		"Id" : 45,
+		"nombre" : "ARBOK",
+		"internal_id" : 45,
+		"gen" : 1,
+		"pokedex_id" : 24
+	},
+	{
+		"Id" : 46,
+		"nombre" : "PARASECT",
+		"internal_id" : 46,
+		"gen" : 1,
+		"pokedex_id" : 47
+	},
+	{
+		"Id" : 47,
+		"nombre" : "PSYDUCK",
+		"internal_id" : 47,
+		"gen" : 1,
+		"pokedex_id" : 54
+	},
+	{
+		"Id" : 48,
+		"nombre" : "DROWZEE",
+		"internal_id" : 48,
+		"gen" : 1,
+		"pokedex_id" : 96
+	},
+	{
+		"Id" : 49,
+		"nombre" : "GOLEM",
+		"internal_id" : 49,
+		"gen" : 1,
+		"pokedex_id" : 76
+	},
+	{
+		"Id" : 50,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 50,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 51,
+		"nombre" : "MAGMAR",
+		"internal_id" : 51,
+		"gen" : 1,
+		"pokedex_id" : 126
+	},
+	{
+		"Id" : 52,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 52,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 53,
+		"nombre" : "ELECTABUZZ",
+		"internal_id" : 53,
+		"gen" : 1,
+		"pokedex_id" : 125
+	},
+	{
+		"Id" : 54,
+		"nombre" : "MAGNETON",
+		"internal_id" : 54,
+		"gen" : 1,
+		"pokedex_id" : 82
+	},
+	{
+		"Id" : 55,
+		"nombre" : "KOFFING",
+		"internal_id" : 55,
+		"gen" : 1,
+		"pokedex_id" : 109
+	},
+	{
+		"Id" : 56,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 56,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 57,
+		"nombre" : "MANKEY",
+		"internal_id" : 57,
+		"gen" : 1,
+		"pokedex_id" : 56
+	},
+	{
+		"Id" : 58,
+		"nombre" : "SEEL",
+		"internal_id" : 58,
+		"gen" : 1,
+		"pokedex_id" : 86
+	},
+	{
+		"Id" : 59,
+		"nombre" : "DIGLETT",
+		"internal_id" : 59,
+		"gen" : 1,
+		"pokedex_id" : 50
+	},
+	{
+		"Id" : 60,
+		"nombre" : "TAUROS",
+		"internal_id" : 60,
+		"gen" : 1,
+		"pokedex_id" : 128
+	},
+	{
+		"Id" : 61,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 61,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 62,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 62,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 63,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 63,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 64,
+		"nombre" : "FARFETCH'D",
+		"internal_id" : 64,
+		"gen" : 1,
+		"pokedex_id" : 83
+	},
+	{
+		"Id" : 65,
+		"nombre" : "VENONAT",
+		"internal_id" : 65,
+		"gen" : 1,
+		"pokedex_id" : 48
+	},
+	{
+		"Id" : 66,
+		"nombre" : "DRAGONITE",
+		"internal_id" : 66,
+		"gen" : 1,
+		"pokedex_id" : 149
+	},
+	{
+		"Id" : 67,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 67,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 68,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 68,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 69,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 69,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 70,
+		"nombre" : "DODUO",
+		"internal_id" : 70,
+		"gen" : 1,
+		"pokedex_id" : 84
+	},
+	{
+		"Id" : 71,
+		"nombre" : "POLIWAG",
+		"internal_id" : 71,
+		"gen" : 1,
+		"pokedex_id" : 60
+	},
+	{
+		"Id" : 72,
+		"nombre" : "JYNX",
+		"internal_id" : 72,
+		"gen" : 1,
+		"pokedex_id" : 124
+	},
+	{
+		"Id" : 73,
+		"nombre" : "MOLTRES",
+		"internal_id" : 73,
+		"gen" : 1,
+		"pokedex_id" : 146
+	},
+	{
+		"Id" : 74,
+		"nombre" : "ARTICUNO",
+		"internal_id" : 74,
+		"gen" : 1,
+		"pokedex_id" : 144
+	},
+	{
+		"Id" : 75,
+		"nombre" : "ZAPDOS",
+		"internal_id" : 75,
+		"gen" : 1,
+		"pokedex_id" : 145
+	},
+	{
+		"Id" : 76,
+		"nombre" : "DITTO",
+		"internal_id" : 76,
+		"gen" : 1,
+		"pokedex_id" : 132
+	},
+	{
+		"Id" : 77,
+		"nombre" : "MEOWTH",
+		"internal_id" : 77,
+		"gen" : 1,
+		"pokedex_id" : 52
+	},
+	{
+		"Id" : 78,
+		"nombre" : "KRABBY",
+		"internal_id" : 78,
+		"gen" : 1,
+		"pokedex_id" : 98
+	},
+	{
+		"Id" : 79,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 79,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 80,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 80,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 81,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 81,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 82,
+		"nombre" : "VULPIX",
+		"internal_id" : 82,
+		"gen" : 1,
+		"pokedex_id" : 37
+	},
+	{
+		"Id" : 83,
+		"nombre" : "NINETALES",
+		"internal_id" : 83,
+		"gen" : 1,
+		"pokedex_id" : 38
+	},
+	{
+		"Id" : 84,
+		"nombre" : "PIKACHU",
+		"internal_id" : 84,
+		"gen" : 1,
+		"pokedex_id" : 25
+	},
+	{
+		"Id" : 85,
+		"nombre" : "RAICHU",
+		"internal_id" : 85,
+		"gen" : 1,
+		"pokedex_id" : 26
+	},
+	{
+		"Id" : 86,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 86,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 87,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 87,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 88,
+		"nombre" : "DRATINI",
+		"internal_id" : 88,
+		"gen" : 1,
+		"pokedex_id" : 147
+	},
+	{
+		"Id" : 89,
+		"nombre" : "DRAGONAIR",
+		"internal_id" : 89,
+		"gen" : 1,
+		"pokedex_id" : 148
+	},
+	{
+		"Id" : 90,
+		"nombre" : "KABUTO",
+		"internal_id" : 90,
+		"gen" : 1,
+		"pokedex_id" : 140
+	},
+	{
+		"Id" : 91,
+		"nombre" : "KABUTOPS",
+		"internal_id" : 91,
+		"gen" : 1,
+		"pokedex_id" : 141
+	},
+	{
+		"Id" : 92,
+		"nombre" : "HORSEA",
+		"internal_id" : 92,
+		"gen" : 1,
+		"pokedex_id" : 116
+	},
+	{
+		"Id" : 93,
+		"nombre" : "SEADRA",
+		"internal_id" : 93,
+		"gen" : 1,
+		"pokedex_id" : 117
+	},
+	{
+		"Id" : 94,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 94,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 95,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 95,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 96,
+		"nombre" : "SANDSHREW",
+		"internal_id" : 96,
+		"gen" : 1,
+		"pokedex_id" : 27
+	},
+	{
+		"Id" : 97,
+		"nombre" : "SANDSLASH",
+		"internal_id" : 97,
+		"gen" : 1,
+		"pokedex_id" : 28
+	},
+	{
+		"Id" : 98,
+		"nombre" : "OMANYTE",
+		"internal_id" : 98,
+		"gen" : 1,
+		"pokedex_id" : 138
+	},
+	{
+		"Id" : 99,
+		"nombre" : "OMASTAR",
+		"internal_id" : 99,
+		"gen" : 1,
+		"pokedex_id" : 139
+	},
+	{
+		"Id" : 100,
+		"nombre" : "JIGGLYPUFF",
+		"internal_id" : 100,
+		"gen" : 1,
+		"pokedex_id" : 39
+	},
+	{
+		"Id" : 101,
+		"nombre" : "WIGGLYTUFF",
+		"internal_id" : 101,
+		"gen" : 1,
+		"pokedex_id" : 40
+	},
+	{
+		"Id" : 102,
+		"nombre" : "EEVEE",
+		"internal_id" : 102,
+		"gen" : 1,
+		"pokedex_id" : 133
+	},
+	{
+		"Id" : 103,
+		"nombre" : "FLAREON",
+		"internal_id" : 103,
+		"gen" : 1,
+		"pokedex_id" : 136
+	},
+	{
+		"Id" : 104,
+		"nombre" : "JOLTEON",
+		"internal_id" : 104,
+		"gen" : 1,
+		"pokedex_id" : 135
+	},
+	{
+		"Id" : 105,
+		"nombre" : "VAPOREON",
+		"internal_id" : 105,
+		"gen" : 1,
+		"pokedex_id" : 134
+	},
+	{
+		"Id" : 106,
+		"nombre" : "MACHOP",
+		"internal_id" : 106,
+		"gen" : 1,
+		"pokedex_id" : 66
+	},
+	{
+		"Id" : 107,
+		"nombre" : "ZUBAT",
+		"internal_id" : 107,
+		"gen" : 1,
+		"pokedex_id" : 41
+	},
+	{
+		"Id" : 108,
+		"nombre" : "EKANS",
+		"internal_id" : 108,
+		"gen" : 1,
+		"pokedex_id" : 23
+	},
+	{
+		"Id" : 109,
+		"nombre" : "PARAS",
+		"internal_id" : 109,
+		"gen" : 1,
+		"pokedex_id" : 46
+	},
+	{
+		"Id" : 110,
+		"nombre" : "POLIWHIRL",
+		"internal_id" : 110,
+		"gen" : 1,
+		"pokedex_id" : 61
+	},
+	{
+		"Id" : 111,
+		"nombre" : "POLIWRATH",
+		"internal_id" : 111,
+		"gen" : 1,
+		"pokedex_id" : 62
+	},
+	{
+		"Id" : 112,
+		"nombre" : "WEEDLE",
+		"internal_id" : 112,
+		"gen" : 1,
+		"pokedex_id" : 13
+	},
+	{
+		"Id" : 113,
+		"nombre" : "KAKUNA",
+		"internal_id" : 113,
+		"gen" : 1,
+		"pokedex_id" : 14
+	},
+	{
+		"Id" : 114,
+		"nombre" : "BEEDRILL",
+		"internal_id" : 114,
+		"gen" : 1,
+		"pokedex_id" : 15
+	},
+	{
+		"Id" : 115,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 115,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 116,
+		"nombre" : "DODRIO",
+		"internal_id" : 116,
+		"gen" : 1,
+		"pokedex_id" : 85
+	},
+	{
+		"Id" : 117,
+		"nombre" : "PRIMEAPE",
+		"internal_id" : 117,
+		"gen" : 1,
+		"pokedex_id" : 57
+	},
+	{
+		"Id" : 118,
+		"nombre" : "DUGTRIO",
+		"internal_id" : 118,
+		"gen" : 1,
+		"pokedex_id" : 51
+	},
+	{
+		"Id" : 119,
+		"nombre" : "VENOMOTH",
+		"internal_id" : 119,
+		"gen" : 1,
+		"pokedex_id" : 49
+	},
+	{
+		"Id" : 120,
+		"nombre" : "DEWGONG",
+		"internal_id" : 120,
+		"gen" : 1,
+		"pokedex_id" : 87
+	},
+	{
+		"Id" : 121,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 121,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 122,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 122,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 123,
+		"nombre" : "CATERPIE",
+		"internal_id" : 123,
+		"gen" : 1,
+		"pokedex_id" : 10
+	},
+	{
+		"Id" : 124,
+		"nombre" : "METAPOD",
+		"internal_id" : 124,
+		"gen" : 1,
+		"pokedex_id" : 11
+	},
+	{
+		"Id" : 125,
+		"nombre" : "BUTTERFREE",
+		"internal_id" : 125,
+		"gen" : 1,
+		"pokedex_id" : 12
+	},
+	{
+		"Id" : 126,
+		"nombre" : "MACHAMP",
+		"internal_id" : 126,
+		"gen" : 1,
+		"pokedex_id" : 68
+	},
+	{
+		"Id" : 127,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 127,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 128,
+		"nombre" : "GOLDUCK",
+		"internal_id" : 128,
+		"gen" : 1,
+		"pokedex_id" : 55
+	},
+	{
+		"Id" : 129,
+		"nombre" : "HYPNO",
+		"internal_id" : 129,
+		"gen" : 1,
+		"pokedex_id" : 97
+	},
+	{
+		"Id" : 130,
+		"nombre" : "GOLBAT",
+		"internal_id" : 130,
+		"gen" : 1,
+		"pokedex_id" : 42
+	},
+	{
+		"Id" : 131,
+		"nombre" : "MEWTWO",
+		"internal_id" : 131,
+		"gen" : 1,
+		"pokedex_id" : 150
+	},
+	{
+		"Id" : 132,
+		"nombre" : "SNORLAX",
+		"internal_id" : 132,
+		"gen" : 1,
+		"pokedex_id" : 143
+	},
+	{
+		"Id" : 133,
+		"nombre" : "MAGIKARP",
+		"internal_id" : 133,
+		"gen" : 1,
+		"pokedex_id" : 129
+	},
+	{
+		"Id" : 134,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 134,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 135,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 135,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 136,
+		"nombre" : "MUK",
+		"internal_id" : 136,
+		"gen" : 1,
+		"pokedex_id" : 89
+	},
+	{
+		"Id" : 137,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 137,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 138,
+		"nombre" : "KINGLER",
+		"internal_id" : 138,
+		"gen" : 1,
+		"pokedex_id" : 99
+	},
+	{
+		"Id" : 139,
+		"nombre" : "CLOYSTER",
+		"internal_id" : 139,
+		"gen" : 1,
+		"pokedex_id" : 91
+	},
+	{
+		"Id" : 140,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 140,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 141,
+		"nombre" : "ELECTRODE",
+		"internal_id" : 141,
+		"gen" : 1,
+		"pokedex_id" : 101
+	},
+	{
+		"Id" : 142,
+		"nombre" : "CLEFABLE",
+		"internal_id" : 142,
+		"gen" : 1,
+		"pokedex_id" : 36
+	},
+	{
+		"Id" : 143,
+		"nombre" : "WEEZING",
+		"internal_id" : 143,
+		"gen" : 1,
+		"pokedex_id" : 110
+	},
+	{
+		"Id" : 144,
+		"nombre" : "PERSIAN",
+		"internal_id" : 144,
+		"gen" : 1,
+		"pokedex_id" : 53
+	},
+	{
+		"Id" : 145,
+		"nombre" : "MAROWAK",
+		"internal_id" : 145,
+		"gen" : 1,
+		"pokedex_id" : 105
+	},
+	{
+		"Id" : 146,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 146,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 147,
+		"nombre" : "HAUNTER",
+		"internal_id" : 147,
+		"gen" : 1,
+		"pokedex_id" : 93
+	},
+	{
+		"Id" : 148,
+		"nombre" : "ABRA",
+		"internal_id" : 148,
+		"gen" : 1,
+		"pokedex_id" : 63
+	},
+	{
+		"Id" : 149,
+		"nombre" : "ALAKAZAM",
+		"internal_id" : 149,
+		"gen" : 1,
+		"pokedex_id" : 65
+	},
+	{
+		"Id" : 150,
+		"nombre" : "PIDGEOTTO",
+		"internal_id" : 150,
+		"gen" : 1,
+		"pokedex_id" : 17
+	},
+	{
+		"Id" : 151,
+		"nombre" : "PIDGEOT",
+		"internal_id" : 151,
+		"gen" : 1,
+		"pokedex_id" : 18
+	},
+	{
+		"Id" : 152,
+		"nombre" : "STARMIE",
+		"internal_id" : 152,
+		"gen" : 1,
+		"pokedex_id" : 121
+	},
+	{
+		"Id" : 153,
+		"nombre" : "BULBASAUR",
+		"internal_id" : 153,
+		"gen" : 1,
+		"pokedex_id" : 1
+	},
+	{
+		"Id" : 154,
+		"nombre" : "VENUSAUR",
+		"internal_id" : 154,
+		"gen" : 1,
+		"pokedex_id" : 3
+	},
+	{
+		"Id" : 155,
+		"nombre" : "TENTACRUEL",
+		"internal_id" : 155,
+		"gen" : 1,
+		"pokedex_id" : 73
+	},
+	{
+		"Id" : 156,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 156,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 157,
+		"nombre" : "GOLDEEN",
+		"internal_id" : 157,
+		"gen" : 1,
+		"pokedex_id" : 118
+	},
+	{
+		"Id" : 158,
+		"nombre" : "SEAKING",
+		"internal_id" : 158,
+		"gen" : 1,
+		"pokedex_id" : 119
+	},
+	{
+		"Id" : 159,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 159,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 160,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 160,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 161,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 161,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 162,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 162,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 163,
+		"nombre" : "PONYTA",
+		"internal_id" : 163,
+		"gen" : 1,
+		"pokedex_id" : 77
+	},
+	{
+		"Id" : 164,
+		"nombre" : "RAPIDASH",
+		"internal_id" : 164,
+		"gen" : 1,
+		"pokedex_id" : 78
+	},
+	{
+		"Id" : 165,
+		"nombre" : "RATTATA",
+		"internal_id" : 165,
+		"gen" : 1,
+		"pokedex_id" : 19
+	},
+	{
+		"Id" : 166,
+		"nombre" : "RATICATE",
+		"internal_id" : 166,
+		"gen" : 1,
+		"pokedex_id" : 20
+	},
+	{
+		"Id" : 167,
+		"nombre" : "NIDORINO",
+		"internal_id" : 167,
+		"gen" : 1,
+		"pokedex_id" : 33
+	},
+	{
+		"Id" : 168,
+		"nombre" : "NIDORINA",
+		"internal_id" : 168,
+		"gen" : 1,
+		"pokedex_id" : 30
+	},
+	{
+		"Id" : 169,
+		"nombre" : "GEODUDE",
+		"internal_id" : 169,
+		"gen" : 1,
+		"pokedex_id" : 74
+	},
+	{
+		"Id" : 170,
+		"nombre" : "PORYGON",
+		"internal_id" : 170,
+		"gen" : 1,
+		"pokedex_id" : 137
+	},
+	{
+		"Id" : 171,
+		"nombre" : "AERODACTYL",
+		"internal_id" : 171,
+		"gen" : 1,
+		"pokedex_id" : 142
+	},
+	{
+		"Id" : 172,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 172,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 173,
+		"nombre" : "MAGNEMITE",
+		"internal_id" : 173,
+		"gen" : 1,
+		"pokedex_id" : 81
+	},
+	{
+		"Id" : 174,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 174,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 175,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 175,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 176,
+		"nombre" : "CHARMANDER",
+		"internal_id" : 176,
+		"gen" : 1,
+		"pokedex_id" : 4
+	},
+	{
+		"Id" : 177,
+		"nombre" : "SQUIRTLE",
+		"internal_id" : 177,
+		"gen" : 1,
+		"pokedex_id" : 7
+	},
+	{
+		"Id" : 178,
+		"nombre" : "CHARMELEON",
+		"internal_id" : 178,
+		"gen" : 1,
+		"pokedex_id" : 5
+	},
+	{
+		"Id" : 179,
+		"nombre" : "WARTORTLE",
+		"internal_id" : 179,
+		"gen" : 1,
+		"pokedex_id" : 8
+	},
+	{
+		"Id" : 180,
+		"nombre" : "CHARIZARD",
+		"internal_id" : 180,
+		"gen" : 1,
+		"pokedex_id" : 6
+	},
+	{
+		"Id" : 181,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 181,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 182,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 182,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 183,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 183,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 184,
+		"nombre" : "MISSINGNO.",
+		"internal_id" : 184,
+		"gen" : 1,
+		"pokedex_id" : 0
+	},
+	{
+		"Id" : 185,
+		"nombre" : "ODDISH",
+		"internal_id" : 185,
+		"gen" : 1,
+		"pokedex_id" : 43
+	},
+	{
+		"Id" : 186,
+		"nombre" : "GLOOM",
+		"internal_id" : 186,
+		"gen" : 1,
+		"pokedex_id" : 44
+	},
+	{
+		"Id" : 187,
+		"nombre" : "VILEPLUME",
+		"internal_id" : 187,
+		"gen" : 1,
+		"pokedex_id" : 45
+	},
+	{
+		"Id" : 188,
+		"nombre" : "BELLSPROUT",
+		"internal_id" : 188,
+		"gen" : 1,
+		"pokedex_id" : 69
+	},
+	{
+		"Id" : 189,
+		"nombre" : "WEEPINBELL",
+		"internal_id" : 189,
+		"gen" : 1,
+		"pokedex_id" : 70
+	},
+	{
+		"Id" : 190,
+		"nombre" : "VICTREEBEL",
+		"internal_id" : 190,
+		"gen" : 1,
+		"pokedex_id" : 71
+	}
+]

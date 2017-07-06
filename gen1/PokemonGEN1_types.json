@@ -1,0 +1,114 @@
+[
+	{
+		"Id" : 1,
+		"type_name_es" : "NORMAL",
+		"type_name_en" : "NORMAL",
+		"internal_id" : 0,
+		"generation" : 1
+	},
+	{
+		"Id" : 2,
+		"type_name_es" : "LUCHA",
+		"type_name_en" : "FIGHTING",
+		"internal_id" : 1,
+		"generation" : 1
+	},
+	{
+		"Id" : 3,
+		"type_name_es" : "VOLADOR",
+		"type_name_en" : "FLYING",
+		"internal_id" : 2,
+		"generation" : 1
+	},
+	{
+		"Id" : 4,
+		"type_name_es" : "VENENO",
+		"type_name_en" : "POISON",
+		"internal_id" : 3,
+		"generation" : 1
+	},
+	{
+		"Id" : 5,
+		"type_name_es" : "FUEGO",
+		"type_name_en" : "FIRE",
+		"internal_id" : 20,
+		"generation" : 1
+	},
+	{
+		"Id" : 6,
+		"type_name_es" : "AGUA",
+		"type_name_en" : "WATER",
+		"internal_id" : 21,
+		"generation" : 1
+	},
+	{
+		"Id" : 7,
+		"type_name_es" : "PLANTA",
+		"type_name_en" : "GRASS",
+		"internal_id" : 22,
+		"generation" : 1
+	},
+	{
+		"Id" : 8,
+		"type_name_es" : "ELÉCTRIC",
+		"type_name_en" : "ELECTRIC",
+		"internal_id" : 23,
+		"generation" : 1
+	},
+	{
+		"Id" : 9,
+		"type_name_es" : "PSÍQUICO",
+		"type_name_en" : "PSYCHIC",
+		"internal_id" : 24,
+		"generation" : 1
+	},
+	{
+		"Id" : 10,
+		"type_name_es" : "HIELO",
+		"type_name_en" : "ICE",
+		"internal_id" : 25,
+		"generation" : 1
+	},
+	{
+		"Id" : 11,
+		"type_name_es" : "TIERRA",
+		"type_name_en" : "GROUND",
+		"internal_id" : 4,
+		"generation" : 1
+	},
+	{
+		"Id" : 12,
+		"type_name_es" : "ROCA",
+		"type_name_en" : "ROCK",
+		"internal_id" : 5,
+		"generation" : 1
+	},
+	{
+		"Id" : 13,
+		"type_name_es" : "PÁJARO",
+		"type_name_en" : "BIRD",
+		"internal_id" : 6,
+		"generation" : 1
+	},
+	{
+		"Id" : 14,
+		"type_name_es" : "BICHO",
+		"type_name_en" : "BUG",
+		"internal_id" : 7,
+		"generation" : 1
+	},
+	{
+		"Id" : 15,
+		"type_name_es" : "FANTASMA",
+		"type_name_en" : "GHOST",
+		"internal_id" : 8,
+		"generation" : 1
+	},
+	{
+		"Id" : 16,
+		"type_name_es" : "DRAGÓN",
+		"type_name_en" : "DRAGON",
+		"internal_id" : 26,
+		"generation" : 1
+	}
+]
