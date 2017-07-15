@@ -1,6 +1,7 @@
 # The Pokemon Database
 
-Complete Pokémon database of all 721 Pokémon (Generation from I to VI)
+* MySQL Database: Complete Pokémon database of all 721 Pokémon (Generation from I to VI)
+* JSON Database: Complete Pokémon database of 151 Pokémon (Generation I). Data dumped directly from original ROM games.
 
 # Ejemplos
 
