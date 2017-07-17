@@ -1,581 +1,581 @@
 [
 	{
 		"Id" : 1,
-		"objets_es" : "MASTER BALL",
+		"objects_es" : "MASTER BALL",
 		"objects_en" : "MASTER BALL",
 		"internal_id" : 1,
 		"gen" : 1
 	},
 	{
 		"Id" : 2,
-		"objets_es" : "ULTRA BALL",
+		"objects_es" : "ULTRA BALL",
 		"objects_en" : "ULTRA BALL",
 		"internal_id" : 2,
 		"gen" : 1
 	},
 	{
 		"Id" : 3,
-		"objets_es" : "SÚPER BALL",
+		"objects_es" : "SÚPER BALL",
 		"objects_en" : "GREAT BALL",
 		"internal_id" : 3,
 		"gen" : 1
 	},
 	{
 		"Id" : 4,
-		"objets_es" : "POKé BALL",
+		"objects_es" : "POKé BALL",
 		"objects_en" : "POKé BALL",
 		"internal_id" : 4,
 		"gen" : 1
 	},
 	{
 		"Id" : 5,
-		"objets_es" : "MAPA PUEBLO",
+		"objects_es" : "MAPA PUEBLO",
 		"objects_en" : "TOWN MAP",
 		"internal_id" : 5,
 		"gen" : 1
 	},
 	{
 		"Id" : 6,
-		"objets_es" : "BICICLETA",
+		"objects_es" : "BICICLETA",
 		"objects_en" : "BICYCLE",
 		"internal_id" : 6,
 		"gen" : 1
 	},
 	{
 		"Id" : 7,
-		"objets_es" : "?????",
+		"objects_es" : "?????",
 		"objects_en" : "?????",
 		"internal_id" : 7,
 		"gen" : 1
 	},
 	{
 		"Id" : 8,
-		"objets_es" : "SAFARI BALL",
+		"objects_es" : "SAFARI BALL",
 		"objects_en" : "SAFARI BALL",
 		"internal_id" : 8,
 		"gen" : 1
 	},
 	{
 		"Id" : 9,
-		"objets_es" : "POKéDEX",
+		"objects_es" : "POKéDEX",
 		"objects_en" : "POKéDEX",
 		"internal_id" : 9,
 		"gen" : 1
 	},
 	{
 		"Id" : 10,
-		"objets_es" : "PIEDRA LUNAR",
+		"objects_es" : "PIEDRA LUNAR",
 		"objects_en" : "MOON STONE",
 		"internal_id" : 10,
 		"gen" : 1
 	},
 	{
 		"Id" : 11,
-		"objets_es" : "ANTÍDOTO",
+		"objects_es" : "ANTÍDOTO",
 		"objects_en" : "ANTIDOTE",
 		"internal_id" : 11,
 		"gen" : 1
 	},
 	{
 		"Id" : 12,
-		"objets_es" : "ANTIQUEMAR",
+		"objects_es" : "ANTIQUEMAR",
 		"objects_en" : "BURN HEAL",
 		"internal_id" : 12,
 		"gen" : 1
 	},
 	{
 		"Id" : 13,
-		"objets_es" : "ANTIHIELO",
+		"objects_es" : "ANTIHIELO",
 		"objects_en" : "ICE HEAL",
 		"internal_id" : 13,
 		"gen" : 1
 	},
 	{
 		"Id" : 14,
-		"objets_es" : "DESPERTAR",
+		"objects_es" : "DESPERTAR",
 		"objects_en" : "AWAKENING",
 		"internal_id" : 14,
 		"gen" : 1
 	},
 	{
 		"Id" : 15,
-		"objets_es" : "ANTIPARALIZ.",
+		"objects_es" : "ANTIPARALIZ.",
 		"objects_en" : "PARLYZ HEAL",
 		"internal_id" : 15,
 		"gen" : 1
 	},
 	{
 		"Id" : 16,
-		"objets_es" : "RESTAU. TODO",
+		"objects_es" : "RESTAU. TODO",
 		"objects_en" : "FULL RESTORE",
 		"internal_id" : 16,
 		"gen" : 1
 	},
 	{
 		"Id" : 17,
-		"objets_es" : "MÁX. POCIÓN",
+		"objects_es" : "MÁX. POCIÓN",
 		"objects_en" : "MAX POTION",
 		"internal_id" : 17,
 		"gen" : 1
 	},
 	{
 		"Id" : 18,
-		"objets_es" : "HÍPER POCIÓN",
+		"objects_es" : "HÍPER POCIÓN",
 		"objects_en" : "HYPER POTION",
 		"internal_id" : 18,
 		"gen" : 1
 	},
 	{
 		"Id" : 19,
-		"objets_es" : "SÚPER POCIÓN",
+		"objects_es" : "SÚPER POCIÓN",
 		"objects_en" : "SUPER POTION",
 		"internal_id" : 19,
 		"gen" : 1
 	},
 	{
 		"Id" : 20,
-		"objets_es" : "POCIÓN",
+		"objects_es" : "POCIÓN",
 		"objects_en" : "POTION",
 		"internal_id" : 20,
 		"gen" : 1
 	},
 	{
 		"Id" : 21,
-		"objets_es" : "MED.ROCA",
+		"objects_es" : "MED.ROCA",
 		"objects_en" : "BOULDERBADGE",
 		"internal_id" : 21,
 		"gen" : 1
 	},
 	{
 		"Id" : 22,
-		"objets_es" : "MED.CASCADA",
+		"objects_es" : "MED.CASCADA",
 		"objects_en" : "CASCADEBADGE",
 		"internal_id" : 22,
 		"gen" : 1
 	},
 	{
 		"Id" : 23,
-		"objets_es" : "MED.TRUENO",
+		"objects_es" : "MED.TRUENO",
 		"objects_en" : "THUNDERBADGE",
 		"internal_id" : 23,
 		"gen" : 1
 	},
 	{
 		"Id" : 24,
-		"objets_es" : "MED.ARCOIRIS",
+		"objects_es" : "MED.ARCOIRIS",
 		"objects_en" : "RAINBOWBADGE",
 		"internal_id" : 24,
 		"gen" : 1
 	},
 	{
 		"Id" : 25,
-		"objets_es" : "MED.ALMA",
+		"objects_es" : "MED.ALMA",
 		"objects_en" : "SOULBADGE",
 		"internal_id" : 25,
 		"gen" : 1
 	},
 	{
 		"Id" : 26,
-		"objets_es" : "MED.PANTANO",
+		"objects_es" : "MED.PANTANO",
 		"objects_en" : "MARSHBADGE",
 		"internal_id" : 26,
 		"gen" : 1
 	},
 	{
 		"Id" : 27,
-		"objets_es" : "MED.VOLCÁN",
+		"objects_es" : "MED.VOLCÁN",
 		"objects_en" : "VOLCANOBADGE",
 		"internal_id" : 27,
 		"gen" : 1
 	},
 	{
 		"Id" : 28,
-		"objets_es" : "MED.TIERRA",
+		"objects_es" : "MED.TIERRA",
 		"objects_en" : "EARTHBADGE",
 		"internal_id" : 28,
 		"gen" : 1
 	},
 	{
 		"Id" : 29,
-		"objets_es" : "CUERDA HUIDA",
+		"objects_es" : "CUERDA HUIDA",
 		"objects_en" : "ESCAPE ROPE",
 		"internal_id" : 29,
 		"gen" : 1
 	},
 	{
 		"Id" : 30,
-		"objets_es" : "REPELENTE",
+		"objects_es" : "REPELENTE",
 		"objects_en" : "REPEL",
 		"internal_id" : 30,
 		"gen" : 1
 	},
 	{
 		"Id" : 31,
-		"objets_es" : "ÁMBAR VIEJO",
+		"objects_es" : "ÁMBAR VIEJO",
 		"objects_en" : "OLD AMBER",
 		"internal_id" : 31,
 		"gen" : 1
 	},
 	{
 		"Id" : 32,
-		"objets_es" : "PIEDRA FUEGO",
+		"objects_es" : "PIEDRA FUEGO",
 		"objects_en" : "FIRE STONE",
 		"internal_id" : 32,
 		"gen" : 1
 	},
 	{
 		"Id" : 33,
-		"objets_es" : "PIEDRATRUENO",
+		"objects_es" : "PIEDRATRUENO",
 		"objects_en" : "THUNDERSTONE",
 		"internal_id" : 33,
 		"gen" : 1
 	},
 	{
 		"Id" : 34,
-		"objets_es" : "PIEDRA AGUA",
+		"objects_es" : "PIEDRA AGUA",
 		"objects_en" : "WATER STONE",
 		"internal_id" : 34,
 		"gen" : 1
 	},
 	{
 		"Id" : 35,
-		"objets_es" : "MÁS PS",
+		"objects_es" : "MÁS PS",
 		"objects_en" : "HP UP",
 		"internal_id" : 35,
 		"gen" : 1
 	},
 	{
 		"Id" : 36,
-		"objets_es" : "PROTEÍNAS",
+		"objects_es" : "PROTEÍNAS",
 		"objects_en" : "PROTEIN",
 		"internal_id" : 36,
 		"gen" : 1
 	},
 	{
 		"Id" : 37,
-		"objets_es" : "HIERRO",
+		"objects_es" : "HIERRO",
 		"objects_en" : "IRON",
 		"internal_id" : 37,
 		"gen" : 1
 	},
 	{
 		"Id" : 38,
-		"objets_es" : "CARBURANTE",
+		"objects_es" : "CARBURANTE",
 		"objects_en" : "CARBOS",
 		"internal_id" : 38,
 		"gen" : 1
 	},
 	{
 		"Id" : 39,
-		"objets_es" : "CALCIO",
+		"objects_es" : "CALCIO",
 		"objects_en" : "CALCIUM",
 		"internal_id" : 39,
 		"gen" : 1
 	},
 	{
 		"Id" : 40,
-		"objets_es" : "CARAMELORARO",
+		"objects_es" : "CARAMELORARO",
 		"objects_en" : "RARE CANDY",
 		"internal_id" : 40,
 		"gen" : 1
 	},
 	{
 		"Id" : 41,
-		"objets_es" : "FÓSIL DOMO",
+		"objects_es" : "FÓSIL DOMO",
 		"objects_en" : "DOME FOSSIL",
 		"internal_id" : 41,
 		"gen" : 1
 	},
 	{
 		"Id" : 42,
-		"objets_es" : "FÓSIL HELIX",
+		"objects_es" : "FÓSIL HELIX",
 		"objects_en" : "HELIX FOSSIL",
 		"internal_id" : 42,
 		"gen" : 1
 	},
 	{
 		"Id" : 43,
-		"objets_es" : "LL. SECRETA",
+		"objects_es" : "LL. SECRETA",
 		"objects_en" : "SECRET KEY",
 		"internal_id" : 43,
 		"gen" : 1
 	},
 	{
 		"Id" : 44,
-		"objets_es" : "?????",
+		"objects_es" : "?????",
 		"objects_en" : "?????",
 		"internal_id" : 44,
 		"gen" : 1
 	},
 	{
 		"Id" : 45,
-		"objets_es" : "BONO BICI",
+		"objects_es" : "BONO BICI",
 		"objects_en" : "BIKE VOUCHER",
 		"internal_id" : 45,
 		"gen" : 1
 	},
 	{
 		"Id" : 46,
-		"objets_es" : "PRECISIÓN X",
+		"objects_es" : "PRECISIÓN X",
 		"objects_en" : "X ACCURACY",
 		"internal_id" : 46,
 		"gen" : 1
 	},
 	{
 		"Id" : 47,
-		"objets_es" : "PIEDRA HOJA",
+		"objects_es" : "PIEDRA HOJA",
 		"objects_en" : "LEAF STONE",
 		"internal_id" : 47,
 		"gen" : 1
 	},
 	{
 		"Id" : 48,
-		"objets_es" : "LL.MAGNÉTICA",
+		"objects_es" : "LL.MAGNÉTICA",
 		"objects_en" : "CARD KEY",
 		"internal_id" : 48,
 		"gen" : 1
 	},
 	{
 		"Id" : 49,
-		"objets_es" : "PEPITA",
+		"objects_es" : "PEPITA",
 		"objects_en" : "NUGGET",
 		"internal_id" : 49,
 		"gen" : 1
 	},
 	{
 		"Id" : 50,
-		"objets_es" : "MÁS PP",
+		"objects_es" : "MÁS PP",
 		"objects_en" : "PP UP",
 		"internal_id" : 50,
 		"gen" : 1
 	},
 	{
 		"Id" : 51,
-		"objets_es" : "POKé MUÑECA",
+		"objects_es" : "POKé MUÑECA",
 		"objects_en" : "POKé DOLL",
 		"internal_id" : 51,
 		"gen" : 1
 	},
 	{
 		"Id" : 52,
-		"objets_es" : "CURA TOTAL",
+		"objects_es" : "CURA TOTAL",
 		"objects_en" : "FULL HEAL",
 		"internal_id" : 52,
 		"gen" : 1
 	},
 	{
 		"Id" : 53,
-		"objets_es" : "REVIVIR",
+		"objects_es" : "REVIVIR",
 		"objects_en" : "REVIVE",
 		"internal_id" : 53,
 		"gen" : 1
 	},
 	{
 		"Id" : 54,
-		"objets_es" : "MÁX. REVIVIR",
+		"objects_es" : "MÁX. REVIVIR",
 		"objects_en" : "MAX REVIVE",
 		"internal_id" : 54,
 		"gen" : 1
 	},
 	{
 		"Id" : 55,
-		"objets_es" : "PROTEC. ESP.",
+		"objects_es" : "PROTEC. ESP.",
 		"objects_en" : "GUARD SPEC.",
 		"internal_id" : 55,
 		"gen" : 1
 	},
 	{
 		"Id" : 56,
-		"objets_es" : "SÚPER REPEL",
+		"objects_es" : "SÚPER REPEL",
 		"objects_en" : "SUPER REPEL",
 		"internal_id" : 56,
 		"gen" : 1
 	},
 	{
 		"Id" : 57,
-		"objets_es" : "MÁX. REPEL",
+		"objects_es" : "MÁX. REPEL",
 		"objects_en" : "MAX REPEL",
 		"internal_id" : 57,
 		"gen" : 1
 	},
 	{
 		"Id" : 58,
-		"objets_es" : "DIRECTO",
+		"objects_es" : "DIRECTO",
 		"objects_en" : "DIRE HIT",
 		"internal_id" : 58,
 		"gen" : 1
 	},
 	{
 		"Id" : 59,
-		"objets_es" : "MONEDA",
+		"objects_es" : "MONEDA",
 		"objects_en" : "COIN",
 		"internal_id" : 59,
 		"gen" : 1
 	},
 	{
 		"Id" : 60,
-		"objets_es" : "AGUA FRESCA",
+		"objects_es" : "AGUA FRESCA",
 		"objects_en" : "FRESH WATER",
 		"internal_id" : 60,
 		"gen" : 1
 	},
 	{
 		"Id" : 61,
-		"objets_es" : "REFRESCO",
+		"objects_es" : "REFRESCO",
 		"objects_en" : "SODA POP",
 		"internal_id" : 61,
 		"gen" : 1
 	},
 	{
 		"Id" : 62,
-		"objets_es" : "LIMONADA",
+		"objects_es" : "LIMONADA",
 		"objects_en" : "LEMONADE",
 		"internal_id" : 62,
 		"gen" : 1
 	},
 	{
 		"Id" : 63,
-		"objets_es" : "TICKET BARCO",
+		"objects_es" : "TICKET BARCO",
 		"objects_en" : "S.S.TICKET",
 		"internal_id" : 63,
 		"gen" : 1
 	},
 	{
 		"Id" : 64,
-		"objets_es" : "DIENTE ORO",
+		"objects_es" : "DIENTE ORO",
 		"objects_en" : "GOLD TEETH",
 		"internal_id" : 64,
 		"gen" : 1
 	},
 	{
 		"Id" : 65,
-		"objets_es" : "ATAQUE X",
+		"objects_es" : "ATAQUE X",
 		"objects_en" : "X ATTACK",
 		"internal_id" : 65,
 		"gen" : 1
 	},
 	{
 		"Id" : 66,
-		"objets_es" : "DEFENSA X",
+		"objects_es" : "DEFENSA X",
 		"objects_en" : "X DEFEND",
 		"internal_id" : 66,
 		"gen" : 1
 	},
 	{
 		"Id" : 67,
-		"objets_es" : "VELOCIDAD X",
+		"objects_es" : "VELOCIDAD X",
 		"objects_en" : "X SPEED",
 		"internal_id" : 67,
 		"gen" : 1
 	},
 	{
 		"Id" : 68,
-		"objets_es" : "ESPECIAL X",
+		"objects_es" : "ESPECIAL X",
 		"objects_en" : "X SPECIAL",
 		"internal_id" : 68,
 		"gen" : 1
 	},
 	{
 		"Id" : 69,
-		"objets_es" : "MONEDERO",
+		"objects_es" : "MONEDERO",
 		"objects_en" : "COIN CASE",
 		"internal_id" : 69,
 		"gen" : 1
 	},
 	{
 		"Id" : 70,
-		"objets_es" : "CORREO-OAK",
+		"objects_es" : "CORREO-OAK",
 		"objects_en" : "OAK's PARCEL",
 		"internal_id" : 70,
 		"gen" : 1
 	},
 	{
 		"Id" : 71,
-		"objets_es" : "BUSCAOBJETOS",
+		"objects_es" : "BUSCAOBJETOS",
 		"objects_en" : "ITEMFINDER",
 		"internal_id" : 71,
 		"gen" : 1
 	},
 	{
 		"Id" : 72,
-		"objets_es" : "SCOPE SILPH",
+		"objects_es" : "SCOPE SILPH",
 		"objects_en" : "SILPH SCOPE",
 		"internal_id" : 72,
 		"gen" : 1
 	},
 	{
 		"Id" : 73,
-		"objets_es" : "POKé FLAUTA",
+		"objects_es" : "POKé FLAUTA",
 		"objects_en" : "POKé FLUTE",
 		"internal_id" : 73,
 		"gen" : 1
 	},
 	{
 		"Id" : 74,
-		"objets_es" : "LL. ASCENSOR",
+		"objects_es" : "LL. ASCENSOR",
 		"objects_en" : "LIFT KEY",
 		"internal_id" : 74,
 		"gen" : 1
 	},
 	{
 		"Id" : 75,
-		"objets_es" : "REPARTIR EXP",
+		"objects_es" : "REPARTIR EXP",
 		"objects_en" : "EXP.ALL",
 		"internal_id" : 75,
 		"gen" : 1
 	},
 	{
 		"Id" : 76,
-		"objets_es" : "CAñA VIEJA",
+		"objects_es" : "CAñA VIEJA",
 		"objects_en" : "OLD ROD",
 		"internal_id" : 76,
 		"gen" : 1
 	},
 	{
 		"Id" : 77,
-		"objets_es" : "CAñA BUENA",
+		"objects_es" : "CAñA BUENA",
 		"objects_en" : "GOOD ROD",
 		"internal_id" : 77,
 		"gen" : 1
 	},
 	{
 		"Id" : 78,
-		"objets_es" : "SÚPER CAÑA",
+		"objects_es" : "SÚPER CAÑA",
 		"objects_en" : "SUPER ROD",
 		"internal_id" : 78,
 		"gen" : 1
 	},
 	{
 		"Id" : 79,
-		"objets_es" : "MÁS PP",
+		"objects_es" : "MÁS PP",
 		"objects_en" : "PP UP",
 		"internal_id" : 79,
 		"gen" : 1
 	},
 	{
 		"Id" : 80,
-		"objets_es" : "ÉTER",
+		"objects_es" : "ÉTER",
 		"objects_en" : "ETHER",
 		"internal_id" : 80,
 		"gen" : 1
 	},
 	{
 		"Id" : 81,
-		"objets_es" : "ÉTER MÁX.",
+		"objects_es" : "ÉTER MÁX.",
 		"objects_en" : "MAX ETHER",
 		"internal_id" : 81,
 		"gen" : 1
 	},
 	{
 		"Id" : 82,
-		"objets_es" : "ELIXIR",
+		"objects_es" : "ELIXIR",
 		"objects_en" : "ELIXER",
 		"internal_id" : 82,
 		"gen" : 1
 	},
 	{
 		"Id" : 83,
-		"objets_es" : "ELIXIR MÁX.",
+		"objects_es" : "ELIXIR MÁX.",
 		"objects_en" : "MAX ELIXER",
 		"internal_id" : 83,
 		"gen" : 1
