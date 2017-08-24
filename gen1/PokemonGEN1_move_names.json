@@ -1,827 +1,1322 @@
 [
 	{
 		"internal_id" : 0,
+		"name_de" : "PFUND",
 		"name_en" : "POUND",
-		"name_es" : "DESTRUCTOR"
+		"name_es" : "DESTRUCTOR",
+		"name_fr" : "ECRAS'FACE",
+		"name_it" : "LIBBRA"
 	},
 	{
 		"internal_id" : 1,
+		"name_de" : "KARATESCHLAG",
 		"name_en" : "KARATE CHOP",
-		"name_es" : "GOLPE KARATE"
+		"name_es" : "GOLPE KARATE",
+		"name_fr" : "POING-KARATE",
+		"name_it" : "COLPO-KARATE"
 	},
 	{
 		"internal_id" : 2,
+		"name_de" : "DUPLEXHIEB",
 		"name_en" : "DOUBLESLAP",
-		"name_es" : "DOBLEBOFETÓN"
+		"name_es" : "DOBLEBOFETÓN",
+		"name_fr" : "TORGNOLES",
+		"name_it" : "DOPPIASBERLA"
 	},
 	{
 		"internal_id" : 3,
+		"name_de" : "KOMETENHIEB",
 		"name_en" : "COMET PUNCH",
-		"name_es" : "PUÑO COMETA"
+		"name_es" : "PUÑO COMETA",
+		"name_fr" : "POING COMETE",
+		"name_it" : "COMETAPUGNO"
 	},
 	{
 		"internal_id" : 4,
+		"name_de" : "MEGAHIEB",
 		"name_en" : "MEGA PUNCH",
-		"name_es" : "MEGA PUÑO"
+		"name_es" : "MEGA PUÑO",
+		"name_fr" : "ULTIMAPOING",
+		"name_it" : "MEGAPUGNO"
 	},
 	{
 		"internal_id" : 5,
+		"name_de" : "ZAHLTAG",
 		"name_en" : "PAY DAY",
-		"name_es" : "DÍA DE PAGO"
+		"name_es" : "DÍA DE PAGO",
+		"name_fr" : "JACKPOT",
+		"name_it" : "GIORNO-PAGA"
 	},
 	{
 		"internal_id" : 6,
+		"name_de" : "FEUERSCHLAG",
 		"name_en" : "FIRE PUNCH",
-		"name_es" : "PUÑO FUEGO"
+		"name_es" : "PUÑO FUEGO",
+		"name_fr" : "POING DE FEU",
+		"name_it" : "FUOCOPUGNO"
 	},
 	{
 		"internal_id" : 7,
+		"name_de" : "EISHIEB",
 		"name_en" : "ICE PUNCH",
-		"name_es" : "PUÑO HIELO"
+		"name_es" : "PUÑO HIELO",
+		"name_fr" : "POINGLACE",
+		"name_it" : "GELOPUGNO"
 	},
 	{
 		"internal_id" : 8,
+		"name_de" : "DONNERSCHLAG",
 		"name_en" : "THUNDERPUNCH",
-		"name_es" : "PUÑO-TRUENO"
+		"name_es" : "PUÑO-TRUENO",
+		"name_fr" : "POING-ECLAIR",
+		"name_it" : "TUONOPUGNO"
 	},
 	{
 		"internal_id" : 9,
+		"name_de" : "KRATZER",
 		"name_en" : "SCRATCH",
-		"name_es" : "ARAÑAZO"
+		"name_es" : "ARAÑAZO",
+		"name_fr" : "GRIFFE",
+		"name_it" : "GRAFFIO"
 	},
 	{
 		"internal_id" : 10,
+		"name_de" : "KLAMMER",
 		"name_en" : "VICEGRIP",
-		"name_es" : "AGARRE"
+		"name_es" : "AGARRE",
+		"name_fr" : "FORCE POIGNE",
+		"name_it" : "PRESA"
 	},
 	{
 		"internal_id" : 11,
+		"name_de" : "GUILLOTINE",
 		"name_en" : "GUILLOTINE",
-		"name_es" : "GUILLOTINA"
+		"name_es" : "GUILLOTINA",
+		"name_fr" : "GUILLOTINE",
+		"name_it" : "GHIGLIOTTINA"
 	},
 	{
 		"internal_id" : 12,
+		"name_de" : "KLINGENSTURM",
 		"name_en" : "RAZOR WIND",
-		"name_es" : "V. CORTANTE"
+		"name_es" : "V. CORTANTE",
+		"name_fr" : "COUPE-VENT",
+		"name_it" : "VENTAGLIENTE"
 	},
 	{
 		"internal_id" : 13,
+		"name_de" : "SCHWERTTANZ",
 		"name_en" : "SWORDS DANCE",
-		"name_es" : "DANZA-ESPADA"
+		"name_es" : "DANZA-ESPADA",
+		"name_fr" : "DANSE-LAMES",
+		"name_it" : "DANZA-SPADA"
 	},
 	{
 		"internal_id" : 14,
+		"name_de" : "ZERSCHNEIDER",
 		"name_en" : "CUT",
-		"name_es" : "CORTE"
+		"name_es" : "CORTE",
+		"name_fr" : "COUPE",
+		"name_it" : "TAGLIO"
 	},
 	{
 		"internal_id" : 15,
+		"name_de" : "WINDSTOSS",
 		"name_en" : "GUST",
-		"name_es" : "TORNADO"
+		"name_es" : "TORNADO",
+		"name_fr" : "TORNADE",
+		"name_it" : "RAFFICA"
 	},
 	{
 		"internal_id" : 16,
+		"name_de" : "FLÜGELSCHLAG",
 		"name_en" : "WING ATTACK",
-		"name_es" : "ATAQUE-ALA"
+		"name_es" : "ATAQUE-ALA",
+		"name_fr" : "CRU-AILE",
+		"name_it" : "ATT. D'ALA"
 	},
 	{
 		"internal_id" : 17,
+		"name_de" : "WIRBELWIND",
 		"name_en" : "WHIRLWIND",
-		"name_es" : "REMOLINO"
+		"name_es" : "REMOLINO",
+		"name_fr" : "CYCLONE",
+		"name_it" : "TURBINE"
 	},
 	{
 		"internal_id" : 18,
+		"name_de" : "FLIEGEN",
 		"name_en" : "FLY",
-		"name_es" : "VUELO"
+		"name_es" : "VUELO",
+		"name_fr" : "VOL",
+		"name_it" : "VOLO"
 	},
 	{
 		"internal_id" : 19,
+		"name_de" : "KLAMMERGRIFF",
 		"name_en" : "BIND",
-		"name_es" : "ATADURA"
+		"name_es" : "ATADURA",
+		"name_fr" : "ETREINTE",
+		"name_it" : "LEGATUTTO"
 	},
 	{
 		"internal_id" : 20,
+		"name_de" : "SLAM",
 		"name_en" : "SLAM",
-		"name_es" : "PORTAZO"
+		"name_es" : "PORTAZO",
+		"name_fr" : "SOUPLESSE",
+		"name_it" : "SCHIANTO"
 	},
 	{
 		"internal_id" : 21,
+		"name_de" : "RANKENHIEB",
 		"name_en" : "VINE WHIP",
-		"name_es" : "LÁTIGO CEPA"
+		"name_es" : "LÁTIGO CEPA",
+		"name_fr" : "FOUET LIANES",
+		"name_it" : "FRUSTATA"
 	},
 	{
 		"internal_id" : 22,
+		"name_de" : "STAMPFER",
 		"name_en" : "STOMP",
-		"name_es" : "PISOTÓN"
+		"name_es" : "PISOTÓN",
+		"name_fr" : "ECRASEMENT",
+		"name_it" : "PESTONE"
 	},
 	{
 		"internal_id" : 23,
+		"name_de" : "DOPPELKICK",
 		"name_en" : "DOUBLE KICK",
-		"name_es" : "DOBLE PATADA"
+		"name_es" : "DOBLE PATADA",
+		"name_fr" : "DOUBLE PIED",
+		"name_it" : "DOPPIOCALCIO"
 	},
 	{
 		"internal_id" : 24,
+		"name_de" : "MEGAKICK",
 		"name_en" : "MEGA KICK",
-		"name_es" : "MEGA PATADA"
+		"name_es" : "MEGA PATADA",
+		"name_fr" : "ULTIMAWASHI",
+		"name_it" : "MEGACALCIO"
 	},
 	{
 		"internal_id" : 25,
+		"name_de" : "SPRUNGKICK",
 		"name_en" : "JUMP KICK",
-		"name_es" : "PATADA SALTO"
+		"name_es" : "PATADA SALTO",
+		"name_fr" : "PIED SAUTE",
+		"name_it" : "CALCIO-SALTO"
 	},
 	{
 		"internal_id" : 26,
+		"name_de" : "FEGEKICK",
 		"name_en" : "ROLLING KICK",
-		"name_es" : "PATADA GIRO"
+		"name_es" : "PATADA GIRO",
+		"name_fr" : "MAWASHI GERI",
+		"name_it" : "CALCIO-RULLO"
 	},
 	{
 		"internal_id" : 27,
+		"name_de" : "SANDWIRBEL",
 		"name_en" : "SAND-ATTACK",
-		"name_es" : "ATAQUE-ARENA"
+		"name_es" : "ATAQUE-ARENA",
+		"name_fr" : "JET DE SABLE",
+		"name_it" : "TURBOSABBIA"
 	},
 	{
 		"internal_id" : 28,
+		"name_de" : "KOPFNUSS",
 		"name_en" : "HEADBUTT",
-		"name_es" : "GOLPE CABEZA"
+		"name_es" : "GOLPE CABEZA",
+		"name_fr" : "COUP D'BOULE",
+		"name_it" : "BOTTINTESTA"
 	},
 	{
 		"internal_id" : 29,
+		"name_de" : "HORNATTACKE",
 		"name_en" : "HORN ATTACK",
-		"name_es" : "CORNADA"
+		"name_es" : "CORNADA",
+		"name_fr" : "KOUD'KORNE",
+		"name_it" : "INCORNATA"
 	},
 	{
 		"internal_id" : 30,
+		"name_de" : "FURIENSCHLAG",
 		"name_en" : "FURY ATTACK",
-		"name_es" : "ATAQUE FURIA"
+		"name_es" : "ATAQUE FURIA",
+		"name_fr" : "FURIE",
+		"name_it" : "FURIA"
 	},
 	{
 		"internal_id" : 31,
+		"name_de" : "HORNBOHRER",
 		"name_en" : "HORN DRILL",
-		"name_es" : "PERFORADOR"
+		"name_es" : "PERFORADOR",
+		"name_fr" : "EMPAL'KORNE",
+		"name_it" : "PERFORCORNO"
 	},
 	{
 		"internal_id" : 32,
+		"name_de" : "TACKLE",
 		"name_en" : "TACKLE",
-		"name_es" : "PLACAJE"
+		"name_es" : "PLACAJE",
+		"name_fr" : "CHARGE",
+		"name_it" : "AZIONE"
 	},
 	{
 		"internal_id" : 33,
+		"name_de" : "BODYSLAM",
 		"name_en" : "BODY SLAM",
-		"name_es" : "GOLPE CUERPO"
+		"name_es" : "GOLPE CUERPO",
+		"name_fr" : "PLAQUAGE",
+		"name_it" : "BODY SLAM"
 	},
 	{
 		"internal_id" : 34,
+		"name_de" : "WICKEL",
 		"name_en" : "WRAP",
-		"name_es" : "REPETICIÓN"
+		"name_es" : "REPETICIÓN",
+		"name_fr" : "LIGOTAGE",
+		"name_it" : "AVVOLGIBOTTA"
 	},
 	{
 		"internal_id" : 35,
+		"name_de" : "BODYCHECK",
 		"name_en" : "TAKE DOWN",
-		"name_es" : "DERRIBO"
+		"name_es" : "DERRIBO",
+		"name_fr" : "BELIER",
+		"name_it" : "RIDUTTORE"
 	},
 	{
 		"internal_id" : 36,
+		"name_de" : "FUCHTLER",
 		"name_en" : "THRASH",
-		"name_es" : "GOLPE"
+		"name_es" : "GOLPE",
+		"name_fr" : "MANIA",
+		"name_it" : "COLPO"
 	},
 	{
 		"internal_id" : 37,
+		"name_de" : "RISIKOTACKLE",
 		"name_en" : "DOUBLE-EDGE",
-		"name_es" : "DOBLE FILO"
+		"name_es" : "DOBLE FILO",
+		"name_fr" : "DAMOCLES",
+		"name_it" : "SDOPPIATORE"
 	},
 	{
 		"internal_id" : 38,
+		"name_de" : "RUTENSCHLAG",
 		"name_en" : "TAIL WHIP",
-		"name_es" : "LÁTIGO"
+		"name_es" : "LÁTIGO",
+		"name_fr" : "MIMI-QUEUE",
+		"name_it" : "COLPO-CODA"
 	},
 	{
 		"internal_id" : 39,
+		"name_de" : "GIFTSTACHEL",
 		"name_en" : "POISON STING",
-		"name_es" : "PICOTAZO VEN."
+		"name_es" : "PICOTAZO VEN.",
+		"name_fr" : "DARD-VENIN",
+		"name_it" : "VELENOSPINA"
 	},
 	{
 		"internal_id" : 40,
+		"name_de" : "DUONADEL",
 		"name_en" : "TWINEEDLE",
-		"name_es" : "DOBLEATAQUE"
+		"name_es" : "DOBLEATAQUE",
+		"name_fr" : "DOUBLE-DARD",
+		"name_it" : "DOPPIO AGO"
 	},
 	{
 		"internal_id" : 41,
+		"name_de" : "NADELRAKETE",
 		"name_en" : "PIN MISSILE",
-		"name_es" : "PIN MISIL"
+		"name_es" : "PIN MISIL",
+		"name_fr" : "DARD-NUEE",
+		"name_it" : "MISSILSPILLO"
 	},
 	{
 		"internal_id" : 42,
+		"name_de" : "SILBERBLICK",
 		"name_en" : "LEER",
-		"name_es" : "MALICIOSO"
+		"name_es" : "MALICIOSO",
+		"name_fr" : "GROZ'YEUX",
+		"name_it" : "FULMISGUARDO"
 	},
 	{
 		"internal_id" : 43,
+		"name_de" : "BISS",
 		"name_en" : "BITE",
-		"name_es" : "MORDISCO"
+		"name_es" : "MORDISCO",
+		"name_fr" : "MORSURE",
+		"name_it" : "MORSO"
 	},
 	{
 		"internal_id" : 44,
+		"name_de" : "HEULER",
 		"name_en" : "GROWL",
-		"name_es" : "GRUÑIDO"
+		"name_es" : "GRUÑIDO",
+		"name_fr" : "RUGISSEMENT",
+		"name_it" : "RUGGITO"
 	},
 	{
 		"internal_id" : 45,
+		"name_de" : "BRÜLLER",
 		"name_en" : "ROAR",
-		"name_es" : "RUGIDO"
+		"name_es" : "RUGIDO",
+		"name_fr" : "HURLEMENT",
+		"name_it" : "BOATO"
 	},
 	{
 		"internal_id" : 46,
+		"name_de" : "GESANG",
 		"name_en" : "SING",
-		"name_es" : "CANTO"
+		"name_es" : "CANTO",
+		"name_fr" : "BERCEUSE",
+		"name_it" : "CANTO"
 	},
 	{
 		"internal_id" : 47,
+		"name_de" : "SUPERSCHALL",
 		"name_en" : "SUPERSONIC",
-		"name_es" : "SUPERSÓNICO"
+		"name_es" : "SUPERSÓNICO",
+		"name_fr" : "ULTRASON",
+		"name_it" : "SUPERSUONO"
 	},
 	{
 		"internal_id" : 48,
+		"name_de" : "ULTRASCHALL",
 		"name_en" : "SONICBOOM",
-		"name_es" : "BOMBA SÓNICA"
+		"name_es" : "BOMBA SÓNICA",
+		"name_fr" : "SONICBOOM",
+		"name_it" : "SONICBOOM"
 	},
 	{
 		"internal_id" : 49,
+		"name_de" : "AUSSETZER",
 		"name_en" : "DISABLE",
-		"name_es" : "ANULACIÓN"
+		"name_es" : "ANULACIÓN",
+		"name_fr" : "ENTRAVE",
+		"name_it" : "INIBITORE"
 	},
 	{
 		"internal_id" : 50,
+		"name_de" : "SÄURE",
 		"name_en" : "ACID",
-		"name_es" : "ÁCIDO"
+		"name_es" : "ÁCIDO",
+		"name_fr" : "ACIDE",
+		"name_it" : "ACIDO"
 	},
 	{
 		"internal_id" : 51,
+		"name_de" : "GLUT",
 		"name_en" : "EMBER",
-		"name_es" : "ASCUAS"
+		"name_es" : "ASCUAS",
+		"name_fr" : "FLAMMECHE",
+		"name_it" : "BRACIERE"
 	},
 	{
 		"internal_id" : 52,
+		"name_de" : "FLAMMENWURF",
 		"name_en" : "FLAMETHROWER",
-		"name_es" : "LANZALLAMAS"
+		"name_es" : "LANZALLAMAS",
+		"name_fr" : "LANCE-FLAMME",
+		"name_it" : "LANCIAFIAMME"
 	},
 	{
 		"internal_id" : 53,
+		"name_de" : "WEISSNEBEL",
 		"name_en" : "MIST",
-		"name_es" : "NEBLINA"
+		"name_es" : "NEBLINA",
+		"name_fr" : "BRUME",
+		"name_it" : "NEBBIA"
 	},
 	{
 		"internal_id" : 54,
+		"name_de" : "AQUAKNARRE",
 		"name_en" : "WATER GUN",
-		"name_es" : "PISTOLA AGUA"
+		"name_es" : "PISTOLA AGUA",
+		"name_fr" : "PISTOLET A O",
+		"name_it" : "PISTOLACQUA"
 	},
 	{
 		"internal_id" : 55,
+		"name_de" : "HYDROPUMPE",
 		"name_en" : "HYDRO PUMP",
-		"name_es" : "HIDRO BOMBA"
+		"name_es" : "HIDRO BOMBA",
+		"name_fr" : "HYDROCANON",
+		"name_it" : "IDROPOMPA"
 	},
 	{
 		"internal_id" : 56,
+		"name_de" : "SURFER",
 		"name_en" : "SURF",
-		"name_es" : "SURF"
+		"name_es" : "SURF",
+		"name_fr" : "SURF",
+		"name_it" : "SURF"
 	},
 	{
 		"internal_id" : 57,
+		"name_de" : "EISSTRAHL",
 		"name_en" : "ICE BEAM",
-		"name_es" : "RAYO HIELO"
+		"name_es" : "RAYO HIELO",
+		"name_fr" : "LASER GLACE",
+		"name_it" : "GELORAGGIO"
 	},
 	{
 		"internal_id" : 58,
+		"name_de" : "BLIZZARD",
 		"name_en" : "BLIZZARD",
-		"name_es" : "VENTISCA"
+		"name_es" : "VENTISCA",
+		"name_fr" : "BLIZZARD",
+		"name_it" : "BORA"
 	},
 	{
 		"internal_id" : 59,
+		"name_de" : "PSYSTRAHL",
 		"name_en" : "PSYBEAM",
-		"name_es" : "PSICO-RAYO"
+		"name_es" : "PSICO-RAYO",
+		"name_fr" : "RAFALE PSY",
+		"name_it" : "PSICORAGGIO"
 	},
 	{
 		"internal_id" : 60,
+		"name_de" : "BLUBBSTRAHL",
 		"name_en" : "BUBBLEBEAM",
-		"name_es" : "RAYO BURBUJA"
+		"name_es" : "RAYO BURBUJA",
+		"name_fr" : "BULLES D'O",
+		"name_it" : "BOLLARAGGIO"
 	},
 	{
 		"internal_id" : 61,
+		"name_de" : "AURORASTRAHL",
 		"name_en" : "AURORA BEAM",
-		"name_es" : "RAYO AURORA"
+		"name_es" : "RAYO AURORA",
+		"name_fr" : "ONDE BOREALE",
+		"name_it" : "RAGGIAURORA"
 	},
 	{
 		"internal_id" : 62,
+		"name_de" : "HYPERSTRAHL",
 		"name_en" : "HYPER BEAM",
-		"name_es" : "HÍPER RAYO"
+		"name_es" : "HÍPER RAYO",
+		"name_fr" : "ULTRALASER",
+		"name_it" : "IPER-RAGGIO"
 	},
 	{
 		"internal_id" : 63,
+		"name_de" : "SCHNABEL",
 		"name_en" : "PECK",
-		"name_es" : "PICOTAZO"
+		"name_es" : "PICOTAZO",
+		"name_fr" : "PICPIC",
+		"name_it" : "BECCATA"
 	},
 	{
 		"internal_id" : 64,
+		"name_de" : "BOHRSCHNABEL",
 		"name_en" : "DRILL PECK",
-		"name_es" : "PICO TALADRO"
+		"name_es" : "PICO TALADRO",
+		"name_fr" : "BEC VRILLE",
+		"name_it" : "PERFORBECCO"
 	},
 	{
 		"internal_id" : 65,
+		"name_de" : "ÜBERROLLER",
 		"name_en" : "SUBMISSION",
-		"name_es" : "SUMISIÓN"
+		"name_es" : "SUMISIÓN",
+		"name_fr" : "SACRIFICE",
+		"name_it" : "SOTTOMISS."
 	},
 	{
 		"internal_id" : 66,
+		"name_de" : "FUSSKICK",
 		"name_en" : "LOW KICK",
-		"name_es" : "PATADA BAJA"
+		"name_es" : "PATADA BAJA",
+		"name_fr" : "BALAYAGE",
+		"name_it" : "COLPO BASSO"
 	},
 	{
 		"internal_id" : 67,
+		"name_de" : "KONTER",
 		"name_en" : "COUNTER",
-		"name_es" : "CONTADOR"
+		"name_es" : "CONTADOR",
+		"name_fr" : "RIPOSTE",
+		"name_it" : "CONTATORE"
 	},
 	{
 		"internal_id" : 68,
+		"name_de" : "GEOWURF",
 		"name_en" : "SEISMIC TOSS",
-		"name_es" : "MOV. SÍSMICO"
+		"name_es" : "MOV. SÍSMICO",
+		"name_fr" : "FRAPPE ATLAS",
+		"name_it" : "MOV. SISMICO"
 	},
 	{
 		"internal_id" : 69,
+		"name_de" : "STÄRKE",
 		"name_en" : "STRENGTH",
-		"name_es" : "FUERZA"
+		"name_es" : "FUERZA",
+		"name_fr" : "FORCE",
+		"name_it" : "FORZA"
 	},
 	{
 		"internal_id" : 70,
+		"name_de" : "ABSORBER",
 		"name_en" : "ABSORB",
-		"name_es" : "ABSORBER"
+		"name_es" : "ABSORBER",
+		"name_fr" : "VOL-VIE",
+		"name_it" : "ASSORBIMENTO"
 	},
 	{
 		"internal_id" : 71,
+		"name_de" : "MEGASAUGER",
 		"name_en" : "MEGA DRAIN",
-		"name_es" : "MEGA AGOTAR"
+		"name_es" : "MEGA AGOTAR",
+		"name_fr" : "MEGA-SANGSUE",
+		"name_it" : "MEGASSORBIM."
 	},
 	{
 		"internal_id" : 72,
+		"name_de" : "EGELSAMEN",
 		"name_en" : "LEECH SEED",
-		"name_es" : "DRENADORAS"
+		"name_es" : "DRENADORAS",
+		"name_fr" : "VAMPIGRAINE",
+		"name_it" : "PARASSISEME"
 	},
 	{
 		"internal_id" : 73,
+		"name_de" : "WACHSTUM",
 		"name_en" : "GROWTH",
-		"name_es" : "DESARROLLO"
+		"name_es" : "DESARROLLO",
+		"name_fr" : "CROISSANCE",
+		"name_it" : "CRESCITA"
 	},
 	{
 		"internal_id" : 74,
+		"name_de" : "RASIERBLATT",
 		"name_en" : "RAZOR LEAF",
-		"name_es" : "HOJA AFILADA"
+		"name_es" : "HOJA AFILADA",
+		"name_fr" : "TRANCH'HERBE",
+		"name_it" : "FOGLIELAMA"
 	},
 	{
 		"internal_id" : 75,
+		"name_de" : "SOLARSTRAHL",
 		"name_en" : "SOLARBEAM",
-		"name_es" : "RAYO SOLAR"
+		"name_es" : "RAYO SOLAR",
+		"name_fr" : "LANCE-SOLEIL",
+		"name_it" : "SOLARRAGGIO"
 	},
 	{
 		"internal_id" : 76,
+		"name_de" : "GIFTPUDER",
 		"name_en" : "POISONPOWDER",
-		"name_es" : "POLVO VENENO"
+		"name_es" : "POLVO VENENO",
+		"name_fr" : "POUDRE TOXIK",
+		"name_it" : "VELENPOLVERE"
 	},
 	{
 		"internal_id" : 77,
+		"name_de" : "STACHELSPORE",
 		"name_en" : "STUN SPORE",
-		"name_es" : "PARALIZADOR"
+		"name_es" : "PARALIZADOR",
+		"name_fr" : "PARA-SPORE",
+		"name_it" : "PARALIZZANTE"
 	},
 	{
 		"internal_id" : 78,
+		"name_de" : "SCHLAFPUDER",
 		"name_en" : "SLEEP POWDER",
-		"name_es" : "SOMNÍFERO"
+		"name_es" : "SOMNÍFERO",
+		"name_fr" : "POUDRE DODO",
+		"name_it" : "SONNIFERO"
 	},
 	{
 		"internal_id" : 79,
+		"name_de" : "BLÄTTERTANZ",
 		"name_en" : "PETAL DANCE",
-		"name_es" : "DANZA PÉTALO"
+		"name_es" : "DANZA PÉTALO",
+		"name_fr" : "DANSE-FLEUR",
+		"name_it" : "PETALODANZA"
 	},
 	{
 		"internal_id" : 80,
+		"name_de" : "FADENSCHUSS",
 		"name_en" : "STRING SHOT",
-		"name_es" : "DISP. DEMORA"
+		"name_es" : "DISP. DEMORA",
+		"name_fr" : "SECRETION",
+		"name_it" : "MILLEBAVE"
 	},
 	{
 		"internal_id" : 81,
+		"name_de" : "DRACHENWUT",
 		"name_en" : "DRAGON RAGE",
-		"name_es" : "FURIA DRAGÓN"
+		"name_es" : "FURIA DRAGÓN",
+		"name_fr" : "DRACO-RAGE",
+		"name_it" : "IRA DI DRAGO"
 	},
 	{
 		"internal_id" : 82,
+		"name_de" : "FEUERWIRBEL",
 		"name_en" : "FIRE SPIN",
-		"name_es" : "GIRO FUEGO"
+		"name_es" : "GIRO FUEGO",
+		"name_fr" : "DANSEFLAMME",
+		"name_it" : "TURBOFUOCO"
 	},
 	{
 		"internal_id" : 83,
+		"name_de" : "DONNERSCHOCK",
 		"name_en" : "THUNDERSHOCK",
-		"name_es" : "IMPACTRUENO"
+		"name_es" : "IMPACTRUENO",
+		"name_fr" : "ECLAIR",
+		"name_it" : "TUONOSHOCK"
 	},
 	{
 		"internal_id" : 84,
+		"name_de" : "DONNERBLITZ",
 		"name_en" : "THUNDERBOLT",
-		"name_es" : "RAYO"
+		"name_es" : "RAYO",
+		"name_fr" : "TONNERRE",
+		"name_it" : "FULMINE"
 	},
 	{
 		"internal_id" : 85,
+		"name_de" : "DONNERWELLE",
 		"name_en" : "THUNDER WAVE",
-		"name_es" : "ONDA TRUENO"
+		"name_es" : "ONDA TRUENO",
+		"name_fr" : "CAGE-ECLAIR",
+		"name_it" : "TUONONDA"
 	},
 	{
 		"internal_id" : 86,
+		"name_de" : "DONNER",
 		"name_en" : "THUNDER",
-		"name_es" : "TRUENO"
+		"name_es" : "TRUENO",
+		"name_fr" : "FATAL-FOUDRE",
+		"name_it" : "TUONO"
 	},
 	{
 		"internal_id" : 87,
+		"name_de" : "STEINWURF",
 		"name_en" : "ROCK THROW",
-		"name_es" : "LANZA ROCAS"
+		"name_es" : "LANZA ROCAS",
+		"name_fr" : "JET-PIERRES",
+		"name_it" : "SASSATA"
 	},
 	{
 		"internal_id" : 88,
+		"name_de" : "ERDBEBEN",
 		"name_en" : "EARTHQUAKE",
-		"name_es" : "TERREMOTO"
+		"name_es" : "TERREMOTO",
+		"name_fr" : "SEISME",
+		"name_it" : "TERREMOTO"
 	},
 	{
 		"internal_id" : 89,
+		"name_de" : "GEOFISSUR",
 		"name_en" : "FISSURE",
-		"name_es" : "FISURA"
+		"name_es" : "FISURA",
+		"name_fr" : "ABIME",
+		"name_it" : "ABISSO"
 	},
 	{
 		"internal_id" : 90,
+		"name_de" : "SCHAUFLER",
 		"name_en" : "DIG",
-		"name_es" : "EXCAVAR"
+		"name_es" : "EXCAVAR",
+		"name_fr" : "TUNNEL",
+		"name_it" : "FOSSA"
 	},
 	{
 		"internal_id" : 91,
+		"name_de" : "TOXIN",
 		"name_en" : "TOXIC",
-		"name_es" : "TÓXICO"
+		"name_es" : "TÓXICO",
+		"name_fr" : "TOXIK",
+		"name_it" : "TOSSINA"
 	},
 	{
 		"internal_id" : 92,
+		"name_de" : "KONFUSION",
 		"name_en" : "CONFUSION",
-		"name_es" : "CONFUSIÓN"
+		"name_es" : "CONFUSIÓN",
+		"name_fr" : "CHOC MENTAL",
+		"name_it" : "CONFUSIONE"
 	},
 	{
 		"internal_id" : 93,
+		"name_de" : "PSYCHOKINESE",
 		"name_en" : "PSYCHIC",
-		"name_es" : "PSÍQUICO"
+		"name_es" : "PSÍQUICO",
+		"name_fr" : "PSYKO",
+		"name_it" : "PSICHICO"
 	},
 	{
 		"internal_id" : 94,
+		"name_de" : "HYPNOSE",
 		"name_en" : "HYPNOSIS",
-		"name_es" : "HIPNOSIS"
+		"name_es" : "HIPNOSIS",
+		"name_fr" : "HYPNOSE",
+		"name_it" : "IPNOSI"
 	},
 	{
 		"internal_id" : 95,
+		"name_de" : "MEDITATION",
 		"name_en" : "MEDITATE",
-		"name_es" : "MEDITACIÓN"
+		"name_es" : "MEDITACIÓN",
+		"name_fr" : "YOGA",
+		"name_it" : "MEDITAZIONE"
 	},
 	{
 		"internal_id" : 96,
+		"name_de" : "AGILITÄT",
 		"name_en" : "AGILITY",
-		"name_es" : "AGILIDAD"
+		"name_es" : "AGILIDAD",
+		"name_fr" : "HATE",
+		"name_it" : "AGILIT[63]"
 	},
 	{
 		"internal_id" : 97,
+		"name_de" : "RUCKZUCKHIEB",
 		"name_en" : "QUICK ATTACK",
-		"name_es" : "ATA. RÁPIDO"
+		"name_es" : "ATA. RÁPIDO",
+		"name_fr" : "VIVE-ATTAQUE",
+		"name_it" : "ATT. RAPIDO"
 	},
 	{
 		"internal_id" : 98,
+		"name_de" : "RASEREI",
 		"name_en" : "RAGE",
-		"name_es" : "FURIA"
+		"name_es" : "FURIA",
+		"name_fr" : "FRENESIE",
+		"name_it" : "IRA"
 	},
 	{
 		"internal_id" : 99,
+		"name_de" : "TELEPORT",
 		"name_en" : "TELEPORT",
-		"name_es" : "TELETRANSP."
+		"name_es" : "TELETRANSP.",
+		"name_fr" : "TELEPORT",
+		"name_it" : "TELETRASPOR."
 	},
 	{
 		"internal_id" : 100,
+		"name_de" : "NACHTNEBEL",
 		"name_en" : "NIGHT SHADE",
-		"name_es" : "TINIEBLAS"
+		"name_es" : "TINIEBLAS",
+		"name_fr" : "TENEBRES",
+		"name_it" : "OMBRA NOTT."
 	},
 	{
 		"internal_id" : 101,
+		"name_de" : "MIMIKRY",
 		"name_en" : "MIMIC",
-		"name_es" : "MIMÉTICO"
+		"name_es" : "MIMÉTICO",
+		"name_fr" : "COPIE",
+		"name_it" : "MIMICA"
 	},
 	{
 		"internal_id" : 102,
+		"name_de" : "KREIDESCHREI",
 		"name_en" : "SCREECH",
-		"name_es" : "CHIRRIDO"
+		"name_es" : "CHIRRIDO",
+		"name_fr" : "GRINCEMENT",
+		"name_it" : "STRIDIO"
 	},
 	{
 		"internal_id" : 103,
+		"name_de" : "DOPPELTEAM",
 		"name_en" : "DOUBLE TEAM",
-		"name_es" : "DOBLE EQUIPO"
+		"name_es" : "DOBLE EQUIPO",
+		"name_fr" : "REFLET",
+		"name_it" : "DOPPIOTEAM"
 	},
 	{
 		"internal_id" : 104,
+		"name_de" : "GENESUNG",
 		"name_en" : "RECOVER",
-		"name_es" : "RECUPERACIÓN"
+		"name_es" : "RECUPERACIÓN",
+		"name_fr" : "SOIN",
+		"name_it" : "RIPRESA"
 	},
 	{
 		"internal_id" : 105,
+		"name_de" : "HÄRTNER",
 		"name_en" : "HARDEN",
-		"name_es" : "FORTALEZA"
+		"name_es" : "FORTALEZA",
+		"name_fr" : "ARMURE",
+		"name_it" : "RAFFORZATORE"
 	},
 	{
 		"internal_id" : 106,
+		"name_de" : "KOMPRIMATOR",
 		"name_en" : "MINIMIZE",
-		"name_es" : "REDUCCIÓN"
+		"name_es" : "REDUCCIÓN",
+		"name_fr" : "LILLIPUT",
+		"name_it" : "MINIMIZZ."
 	},
 	{
 		"internal_id" : 107,
+		"name_de" : "RAUCHWOLKE",
 		"name_en" : "SMOKESCREEN",
-		"name_es" : "PANTALLAHUMO"
+		"name_es" : "PANTALLAHUMO",
+		"name_fr" : "BROUILLARD",
+		"name_it" : "MURO DI FUMO"
 	},
 	{
 		"internal_id" : 108,
+		"name_de" : "KONFUSTRAHL",
 		"name_en" : "CONFUSE RAY",
-		"name_es" : "RAYO CONFUSO"
+		"name_es" : "RAYO CONFUSO",
+		"name_fr" : "ONDE FOLIE",
+		"name_it" : "STORDIRAGGIO"
 	},
 	{
 		"internal_id" : 109,
+		"name_de" : "PANZERSCHUTZ",
 		"name_en" : "WITHDRAW",
-		"name_es" : "REFUGIO"
+		"name_es" : "REFUGIO",
+		"name_fr" : "REPLI",
+		"name_it" : "RITIRATA"
 	},
 	{
 		"internal_id" : 110,
+		"name_de" : "EINIGLER",
 		"name_en" : "DEFENSE CURL",
-		"name_es" : "RIZO DEFENSA"
+		"name_es" : "RIZO DEFENSA",
+		"name_fr" : "BOUL'ARMURE",
+		"name_it" : "RICCIOLSCUDO"
 	},
 	{
 		"internal_id" : 111,
+		"name_de" : "BARRIERE",
 		"name_en" : "BARRIER",
-		"name_es" : "BARRERA"
+		"name_es" : "BARRERA",
+		"name_fr" : "BOUCLIER",
+		"name_it" : "BARRIERA"
 	},
 	{
 		"internal_id" : 112,
+		"name_de" : "LICHTSCHILD",
 		"name_en" : "LIGHT SCREEN",
-		"name_es" : "PANTALLA LUZ"
+		"name_es" : "PANTALLA LUZ",
+		"name_fr" : "MUR LUMIERE",
+		"name_it" : "SCHERMO-LUCE"
 	},
 	{
 		"internal_id" : 113,
+		"name_de" : "DUNKELNEBEL",
 		"name_en" : "HAZE",
-		"name_es" : "NIEBLA"
+		"name_es" : "NIEBLA",
+		"name_fr" : "BUEE NOIRE",
+		"name_it" : "NUBE"
 	},
 	{
 		"internal_id" : 114,
+		"name_de" : "REFLEKTOR",
 		"name_en" : "REFLECT",
-		"name_es" : "REFLEJO"
+		"name_es" : "REFLEJO",
+		"name_fr" : "PROTECTION",
+		"name_it" : "RIFLESSO"
 	},
 	{
 		"internal_id" : 115,
+		"name_de" : "ENERGIEFOKUS",
 		"name_en" : "FOCUS ENERGY",
-		"name_es" : "FOCO ENERGÍA"
+		"name_es" : "FOCO ENERGÍA",
+		"name_fr" : "PUISSANCE",
+		"name_it" : "ENERGY CONC."
 	},
 	{
 		"internal_id" : 116,
+		"name_de" : "GEDULD",
 		"name_en" : "BIDE",
-		"name_es" : "VENGANZA"
+		"name_es" : "VENGANZA",
+		"name_fr" : "PATIENCE",
+		"name_it" : "PAZIENZA"
 	},
 	{
 		"internal_id" : 117,
+		"name_de" : "METRONOM",
 		"name_en" : "METRONOME",
-		"name_es" : "METRÓNOMO"
+		"name_es" : "METRÓNOMO",
+		"name_fr" : "METRONOME",
+		"name_it" : "METRONOMO"
 	},
 	{
 		"internal_id" : 118,
+		"name_de" : "SPIEGELTRICK",
 		"name_en" : "MIRROR MOVE",
-		"name_es" : "MOV. ESPEJO"
+		"name_es" : "MOV. ESPEJO",
+		"name_fr" : "MIMIQUE",
+		"name_it" : "SPECULMOSSA"
 	},
 	{
 		"internal_id" : 119,
+		"name_de" : "FINALE",
 		"name_en" : "SELFDESTRUCT",
-		"name_es" : "AUTODESTRUC."
+		"name_es" : "AUTODESTRUC.",
+		"name_fr" : "DESTRUCTION",
+		"name_it" : "AUTODISTRUZ."
 	},
 	{
 		"internal_id" : 120,
+		"name_de" : "EIERBOMBE",
 		"name_en" : "EGG BOMB",
-		"name_es" : "BOMBA HUEVO"
+		"name_es" : "BOMBA HUEVO",
+		"name_fr" : "BOMB'OEUF",
+		"name_it" : "UOVOBOMBA"
 	},
 	{
 		"internal_id" : 121,
+		"name_de" : "SCHLECKER",
 		"name_en" : "LICK",
-		"name_es" : "LENGÜETAZO"
+		"name_es" : "LENGÜETAZO",
+		"name_fr" : "LECHOUILLE",
+		"name_it" : "LECCATA"
 	},
 	{
 		"internal_id" : 122,
+		"name_de" : "SMOG",
 		"name_en" : "SMOG",
-		"name_es" : "POLUCIÓN"
+		"name_es" : "POLUCIÓN",
+		"name_fr" : "PUREDPOIS",
+		"name_it" : "SMOG"
 	},
 	{
 		"internal_id" : 123,
+		"name_de" : "SCHLAMMBAD",
 		"name_en" : "SLUDGE",
-		"name_es" : "RESIDUOS"
+		"name_es" : "RESIDUOS",
+		"name_fr" : "DETRITUS",
+		"name_it" : "FANGO"
 	},
 	{
 		"internal_id" : 124,
+		"name_de" : "KNOCHENKEULE",
 		"name_en" : "BONE CLUB",
-		"name_es" : "HUESO PALO"
+		"name_es" : "HUESO PALO",
+		"name_fr" : "MASSD'OS",
+		"name_it" : "OSSOCLAVA"
 	},
 	{
 		"internal_id" : 125,
+		"name_de" : "FEUERSTURM",
 		"name_en" : "FIRE BLAST",
-		"name_es" : "LLAMARADA"
+		"name_es" : "LLAMARADA",
+		"name_fr" : "DEFLAGRATION",
+		"name_it" : "FUOCOBOMBA"
 	},
 	{
 		"internal_id" : 126,
+		"name_de" : "KASKADE",
 		"name_en" : "WATERFALL",
-		"name_es" : "CASCADA"
+		"name_es" : "CASCADA",
+		"name_fr" : "CASCADE",
+		"name_it" : "CASCATA"
 	},
 	{
 		"internal_id" : 127,
+		"name_de" : "SCHNAPPER",
 		"name_en" : "CLAMP",
-		"name_es" : "TENAZA"
+		"name_es" : "TENAZA",
+		"name_fr" : "CLAQUOIR",
+		"name_it" : "TENAGLIA"
 	},
 	{
 		"internal_id" : 128,
+		"name_de" : "STERNSCHAUER",
 		"name_en" : "SWIFT",
-		"name_es" : "RAPIDEZ"
+		"name_es" : "RAPIDEZ",
+		"name_fr" : "METEORES",
+		"name_it" : "COMETE"
 	},
 	{
 		"internal_id" : 129,
+		"name_de" : "SCHÄDELWUMME",
 		"name_en" : "SKULL BASH",
-		"name_es" : "CABEZAZO"
+		"name_es" : "CABEZAZO",
+		"name_fr" : "COUD'KRANE",
+		"name_it" : "CAPOCCIATA"
 	},
 	{
 		"internal_id" : 130,
+		"name_de" : "DORNKANONE",
 		"name_en" : "SPIKE CANNON",
-		"name_es" : "CLAVO CAÑÓN"
+		"name_es" : "CLAVO CAÑÓN",
+		"name_fr" : "PICANON",
+		"name_it" : "SPARALANCE"
 	},
 	{
 		"internal_id" : 131,
+		"name_de" : "UMKLAMMERUNG",
 		"name_en" : "CONSTRICT",
-		"name_es" : "RESTRICCIÓN"
+		"name_es" : "RESTRICCIÓN",
+		"name_fr" : "CONSTRICTION",
+		"name_it" : "LIMITAZIONE"
 	},
 	{
 		"internal_id" : 132,
+		"name_de" : "AMNESIE",
 		"name_en" : "AMNESIA",
-		"name_es" : "AMNESIA"
+		"name_es" : "AMNESIA",
+		"name_fr" : "AMNESIE",
+		"name_it" : "AMNESIA"
 	},
 	{
 		"internal_id" : 133,
+		"name_de" : "PSYKRAFT",
 		"name_en" : "KINESIS",
-		"name_es" : "KINÉTICO"
+		"name_es" : "KINÉTICO",
+		"name_fr" : "TELEKINESIE",
+		"name_it" : "CIN[71]SI"
 	},
 	{
 		"internal_id" : 134,
+		"name_de" : "WEICHEI",
 		"name_en" : "SOFTBOILED",
-		"name_es" : "AMORTIGUADOR"
+		"name_es" : "AMORTIGUADOR",
+		"name_fr" : "E-COQUE",
+		"name_it" : "COVAUOVA"
 	},
 	{
 		"internal_id" : 135,
+		"name_de" : "TURMKICK",
 		"name_en" : "HI JUMP KICK",
-		"name_es" : "PATADA S.ALTA"
+		"name_es" : "PATADA S.ALTA",
+		"name_fr" : "PIED VOLTIGE",
+		"name_it" : "CALCINVOLO"
 	},
 	{
 		"internal_id" : 136,
+		"name_de" : "GIFTBLICK",
 		"name_en" : "GLARE",
-		"name_es" : "DESLUMBRAR"
+		"name_es" : "DESLUMBRAR",
+		"name_fr" : "INTIMIDATION",
+		"name_it" : "BAGLIORE"
 	},
 	{
 		"internal_id" : 137,
+		"name_de" : "TRAUMFRESSER",
 		"name_en" : "DREAM EATER",
-		"name_es" : "COME SUEÑOS"
+		"name_es" : "COME SUEÑOS",
+		"name_fr" : "DEVOREVE",
+		"name_it" : "MANGIASOGNI"
 	},
 	{
 		"internal_id" : 138,
+		"name_de" : "GIFTWOLKE",
 		"name_en" : "POISON GAS",
-		"name_es" : "GAS VENENOSO"
+		"name_es" : "GAS VENENOSO",
+		"name_fr" : "GAZ TOXIK",
+		"name_it" : "VELENOGAS"
 	},
 	{
 		"internal_id" : 139,
+		"name_de" : "STAKKATO",
 		"name_en" : "BARRAGE",
-		"name_es" : "PRESA"
+		"name_es" : "PRESA",
+		"name_fr" : "PILONNAGE",
+		"name_it" : "ATT. PIOGGIA"
 	},
 	{
 		"internal_id" : 140,
+		"name_de" : "BLUTSAUGER",
 		"name_en" : "LEECH LIFE",
-		"name_es" : "CHUPA VIDAS"
+		"name_es" : "CHUPA VIDAS",
+		"name_fr" : "VAMPIRISME",
+		"name_it" : "SANGUISUGA"
 	},
 	{
 		"internal_id" : 141,
+		"name_de" : "TODESKUSS",
 		"name_en" : "LOVELY KISS",
-		"name_es" : "BESO AMOROSO"
+		"name_es" : "BESO AMOROSO",
+		"name_fr" : "GROBISOU",
+		"name_it" : "DEMONBACIO"
 	},
 	{
 		"internal_id" : 142,
+		"name_de" : "HIMMELSFEGER",
 		"name_en" : "SKY ATTACK",
-		"name_es" : "ATAQUE AÉREO"
+		"name_es" : "ATAQUE AÉREO",
+		"name_fr" : "PIQUE",
+		"name_it" : "AEROATTACCO"
 	},
 	{
 		"internal_id" : 143,
+		"name_de" : "WANDLER",
 		"name_en" : "TRANSFORM",
-		"name_es" : "TRANSFORM."
+		"name_es" : "TRANSFORM.",
+		"name_fr" : "MORPHING",
+		"name_it" : "TRASFORMAZ."
 	},
 	{
 		"internal_id" : 144,
+		"name_de" : "BLUBBER",
 		"name_en" : "BUBBLE",
-		"name_es" : "BURBUJA"
+		"name_es" : "BURBUJA",
+		"name_fr" : "ECUME",
+		"name_it" : "BOLLA"
 	},
 	{
 		"internal_id" : 145,
+		"name_de" : "IRRSCHLAG",
 		"name_en" : "DIZZY PUNCH",
-		"name_es" : "PUÑO-MAREO"
+		"name_es" : "PUÑO-MAREO",
+		"name_fr" : "UPPERCUT",
+		"name_it" : "STORDIPUGNO"
 	},
 	{
 		"internal_id" : 146,
+		"name_de" : "PILZSPORE",
 		"name_en" : "SPORE",
-		"name_es" : "ESPORA"
+		"name_es" : "ESPORA",
+		"name_fr" : "SPORE",
+		"name_it" : "SPORA"
 	},
 	{
 		"internal_id" : 147,
+		"name_de" : "BLITZ",
 		"name_en" : "FLASH",
-		"name_es" : "DESTELLO"
+		"name_es" : "DESTELLO",
+		"name_fr" : "FLASH",
+		"name_it" : "FLASH"
 	},
 	{
 		"internal_id" : 148,
+		"name_de" : "PSYWELLE",
 		"name_en" : "PSYWAVE",
-		"name_es" : "PSICO-ONDA"
+		"name_es" : "PSICO-ONDA",
+		"name_fr" : "VAGUE PSY",
+		"name_it" : "PSICO-ONDA"
 	},
 	{
 		"internal_id" : 149,
+		"name_de" : "PLATSCHER",
 		"name_en" : "SPLASH",
-		"name_es" : "SALPICADURA"
+		"name_es" : "SALPICADURA",
+		"name_fr" : "TREMPETTE",
+		"name_it" : "SPLASH"
 	},
 	{
 		"internal_id" : 150,
+		"name_de" : "SÄUREPANZER",
 		"name_en" : "ACID ARMOR",
-		"name_es" : "ARMAD. ÁCIDA"
+		"name_es" : "ARMAD. ÁCIDA",
+		"name_fr" : "ACIDARMURE",
+		"name_it" : "SCUDO ACIDO"
 	},
 	{
 		"internal_id" : 151,
+		"name_de" : "KRABBHAMMER",
 		"name_en" : "CRABHAMMER",
-		"name_es" : "MARTILLAZO"
+		"name_es" : "MARTILLAZO",
+		"name_fr" : "PINCE-MASSE",
+		"name_it" : "MARTELLATA"
 	},
 	{
 		"internal_id" : 152,
+		"name_de" : "EXPLOSION",
 		"name_en" : "EXPLOSION",
-		"name_es" : "EXPLOSIÓN"
+		"name_es" : "EXPLOSIÓN",
+		"name_fr" : "EXPLOSION",
+		"name_it" : "ESPLOSIONE"
 	},
 	{
 		"internal_id" : 153,
+		"name_de" : "KRATZFURIE",
 		"name_en" : "FURY SWIPES",
-		"name_es" : "GOLPES FURIA"
+		"name_es" : "GOLPES FURIA",
+		"name_fr" : "COMBO-GRIFFE",
+		"name_it" : "SFURIATE"
 	},
 	{
 		"internal_id" : 154,
+		"name_de" : "KNOCHMERANG",
 		"name_en" : "BONEMERANG",
-		"name_es" : "HUESOMERANG"
+		"name_es" : "HUESOMERANG",
+		"name_fr" : "OSMERANG",
+		"name_it" : "OSSOMERANG"
 	},
 	{
 		"internal_id" : 155,
+		"name_de" : "ERHOLUNG",
 		"name_en" : "REST",
-		"name_es" : "DESCANSO"
+		"name_es" : "DESCANSO",
+		"name_fr" : "REPOS",
+		"name_it" : "RIPOSO"
 	},
 	{
 		"internal_id" : 156,
+		"name_de" : "STEINHAGEL",
 		"name_en" : "ROCK SLIDE",
-		"name_es" : "AVALANCHA"
+		"name_es" : "AVALANCHA",
+		"name_fr" : "EBOULEMENT",
+		"name_it" : "FRANA"
 	},
 	{
 		"internal_id" : 157,
+		"name_de" : "HYPERZAHN",
 		"name_en" : "HYPER FANG",
-		"name_es" : "HIP.COLMILLO"
+		"name_es" : "HIP.COLMILLO",
+		"name_fr" : "CROC DE MORT",
+		"name_it" : "IPERZANNA"
 	},
 	{
 		"internal_id" : 158,
+		"name_de" : "SCHÄRFER",
 		"name_en" : "SHARPEN",
-		"name_es" : "AFILAR"
+		"name_es" : "AFILAR",
+		"name_fr" : "AFFUTAGE",
+		"name_it" : "AFFILATORE"
 	},
 	{
 		"internal_id" : 159,
+		"name_de" : "UMWANDLUNG",
 		"name_en" : "CONVERSION",
-		"name_es" : "CONVERSIÓN"
+		"name_es" : "CONVERSIÓN",
+		"name_fr" : "ADAPTATION",
+		"name_it" : "CONVERSIONE"
 	},
 	{
 		"internal_id" : 160,
+		"name_de" : "TRIPLETTE",
 		"name_en" : "TRI ATTACK",
-		"name_es" : "TRI-ATAQUE"
+		"name_es" : "TRI-ATAQUE",
+		"name_fr" : "TRIPLATTAQUE",
+		"name_it" : "TRIPLETTA"
 	},
 	{
 		"internal_id" : 161,
+		"name_de" : "SUPERZAHN",
 		"name_en" : "SUPER FANG",
-		"name_es" : "SUPER DIENTE"
+		"name_es" : "SUPER DIENTE",
+		"name_fr" : "CROC FATAL",
+		"name_it" : "SUPERZANNA"
 	},
 	{
 		"internal_id" : 162,
+		"name_de" : "SCHLITZER",
 		"name_en" : "SLASH",
-		"name_es" : "CUCHILLADA"
+		"name_es" : "CUCHILLADA",
+		"name_fr" : "TRANCHE",
+		"name_it" : "LACERAZIONE"
 	},
 	{
 		"internal_id" : 163,
+		"name_de" : "DELEGATOR",
 		"name_en" : "SUBSTITUTE",
-		"name_es" : "SUSTITUTO"
+		"name_es" : "SUSTITUTO",
+		"name_fr" : "CLONAGE",
+		"name_it" : "SOSTITUTO"
 	},
 	{
 		"internal_id" : 164,
+		"name_de" : "VERZWEIFLER",
 		"name_en" : "STRUGGLE",
-		"name_es" : "COMBATE"
+		"name_es" : "COMBATE",
+		"name_fr" : "LUTTE",
+		"name_it" : "SCONTRO"
 	}
 ]
